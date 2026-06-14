@@ -1,22 +1,26 @@
 {
   "meta": {
-    "last_update": "2026-06-14 14:30",
+    "last_update": "2026-06-14 08:23",
     "start_date": "2026-06-12",
     "initial_capital": 10000,
-    "current_capital": 9222
+    "current_capital": 10416.0
   },
   "pool": [],
   "open_positions": [
     {
       "code": "000630",
       "name": "铜陵有色",
-      "buy_price": 6.60,
+      "buy_price": 6.6,
       "buy_date": "2026-06-12",
       "strategy": "ambush",
       "shares": 500,
-      "current_price": 7.10,
+      "current_price": 7.1,
       "pct": 7.58,
-      "tags": ["5阴超跌", "主力被套", "低价小盘"]
+      "tags": [
+        "5阴超跌",
+        "主力被套",
+        "低价小盘"
+      ]
     },
     {
       "code": "601872",
@@ -25,9 +29,12 @@
       "buy_date": "2026-06-12",
       "strategy": "ambush",
       "shares": 200,
-      "current_price": 15.60,
+      "current_price": 15.6,
       "pct": 5.62,
-      "tags": ["5阴超跌", "消息面利好"]
+      "tags": [
+        "5阴超跌",
+        "消息面利好"
+      ]
     },
     {
       "code": "601958",
@@ -37,14 +44,28 @@
       "strategy": "ambush",
       "shares": 100,
       "current_price": 25.52,
-      "pct": 10.00,
-      "tags": ["5阴超跌", "机构参与", "消息面利好"]
+      "pct": 0.0,
+      "tags": [
+        "5阴超跌",
+        "机构参与",
+        "消息面利好"
+      ]
     }
   ],
   "trades": [],
   "equity": [
-    {"date": "2026-06-12", "equity": 1.0000},
-    {"date": "2026-06-12c", "equity": 1.0422}
+    {
+      "date": "2026-06-12",
+      "equity": 1.0
+    },
+    {
+      "date": "2026-06-12c",
+      "equity": 1.0422
+    },
+    {
+      "date": "2026-06-14",
+      "equity": 1.0416
+    }
   ],
   "monthly": [],
   "reports": [],
@@ -52,9 +73,13 @@
     {
       "code": "000630",
       "name": "铜陵有色",
-      "signal_price": 6.60,
-      "limit_price": 7.10,
-      "tags": ["5阴超跌", "主力被套", "低价小盘"],
+      "signal_price": 6.6,
+      "limit_price": 7.1,
+      "tags": [
+        "5阴超跌",
+        "主力被套",
+        "低价小盘"
+      ],
       "date": "2026-06-12"
     },
     {
@@ -62,16 +87,44 @@
       "name": "金钼股份",
       "signal_price": 25.52,
       "limit_price": 25.52,
-      "tags": ["5阴超跌", "机构参与", "消息面利好"],
+      "tags": [
+        "5阴超跌",
+        "机构参与",
+        "消息面利好"
+      ],
       "date": "2026-06-12"
     }
   ],
   "features": {
-    "five_yin": {"hit": 2, "total": 2, "rate": "100%"},
-    "trapped": {"hit": 1, "total": 2, "rate": "50%"},
-    "shrink_vol": {"hit": 0, "total": 2, "rate": "0%"},
-    "good_news": {"hit": 2, "total": 2, "rate": "100%"},
-    "org_join": {"hit": 1, "total": 2, "rate": "50%"},
-    "low_cap": {"hit": 1, "total": 2, "rate": "50%"}
+    "five_yin": {
+      "hit": 2,
+      "total": 2,
+      "rate": "100%"
+    },
+    "trapped": {
+      "hit": 1,
+      "total": 2,
+      "rate": "50%"
+    },
+    "shrink_vol": {
+      "hit": 0,
+      "total": 2,
+      "rate": "0%"
+    },
+    "good_news": {
+      "hit": 2,
+      "total": 2,
+      "rate": "100%"
+    },
+    "org_join": {
+      "hit": 1,
+      "total": 2,
+      "rate": "50%"
+    },
+    "low_cap": {
+      "hit": 1,
+      "total": 2,
+      "rate": "50%"
+    }
   }
 }
