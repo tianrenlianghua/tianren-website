@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "last_update": "2026-06-14 14:30",
+    "start_date": "2026-06-12",
+    "initial_capital": 10000,
+    "current_capital": 9222
+  },
+  "pool": [],
+  "open_positions": [
+    {
+      "code": "000630",
+      "name": "铜陵有色",
+      "buy_price": 6.60,
+      "buy_date": "2026-06-12",
+      "strategy": "ambush",
+      "shares": 500,
+      "current_price": 7.10,
+      "pct": 7.58,
+      "tags": ["5阴超跌", "主力被套", "低价小盘"]
+    },
+    {
+      "code": "601872",
+      "name": "招商轮船",
+      "buy_price": 14.77,
+      "buy_date": "2026-06-12",
+      "strategy": "ambush",
+      "shares": 200,
+      "current_price": 15.60,
+      "pct": 5.62,
+      "tags": ["5阴超跌", "消息面利好"]
+    },
+    {
+      "code": "601958",
+      "name": "金钼股份",
+      "buy_price": 25.52,
+      "buy_date": "2026-06-12",
+      "strategy": "ambush",
+      "shares": 100,
+      "current_price": 25.52,
+      "pct": 10.00,
+      "tags": ["5阴超跌", "机构参与", "消息面利好"]
+    }
+  ],
+  "trades": [],
+  "equity": [
+    {"date": "2026-06-12", "equity": 1.0000},
+    {"date": "2026-06-12c", "equity": 1.0422}
+  ],
+  "monthly": [],
+  "reports": [],
+  "portrait": [
+    {
+      "code": "000630",
+      "name": "铜陵有色",
+      "signal_price": 6.60,
+      "limit_price": 7.10,
+      "tags": ["5阴超跌", "主力被套", "低价小盘"],
+      "date": "2026-06-12"
+    },
+    {
+      "code": "601958",
+      "name": "金钼股份",
+      "signal_price": 25.52,
+      "limit_price": 25.52,
+      "tags": ["5阴超跌", "机构参与", "消息面利好"],
+      "date": "2026-06-12"
+    }
+  ],
+  "features": {
+    "five_yin": {"hit": 2, "total": 2, "rate": "100%"},
+    "trapped": {"hit": 1, "total": 2, "rate": "50%"},
+    "shrink_vol": {"hit": 0, "total": 2, "rate": "0%"},
+    "good_news": {"hit": 2, "total": 2, "rate": "100%"},
+    "org_join": {"hit": 1, "total": 2, "rate": "50%"},
+    "low_cap": {"hit": 1, "total": 2, "rate": "50%"}
+  }
+}
