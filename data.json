@@ -465,13 +465,14 @@
       "sell_date": "2026-06-15",
       "shares": 500,
       "profit": 485.0,
-      "profit_pct": 14.7,
       "strategy": "ambush",
       "tags": [
         "5阴超跌",
         "主力被套",
         "低价小盘"
-      ]
+      ],
+      "pct": 14.7,
+      "days": 3
     }
   ],
   "equity": [
