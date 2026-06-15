@@ -1,851 +1,851 @@
 {
-    "meta": {
-        "last_update": "2026-06-15 15:30",
-        "start_date": "2026-06-12",
-        "initial_capital": 10000,
-        "current_capital": 50320
+  "meta": {
+    "last_update": "2026-06-15 15:30",
+    "start_date": "2026-06-12",
+    "initial_capital": 10000,
+    "current_capital": 50320.0
+  },
+  "pool": [
+    {
+      "code": "300750",
+      "name": "宁德时代",
+      "close": 394.85,
+      "change_rate": 3.31,
+      "prime_inflow": 19.74,
+      "prime_cost": 393.01,
+      "trapped": false,
+      "org_participate": 0.59,
+      "total_score": 75.2,
+      "date": "2026-06-15"
     },
-    "pool": [
-        {
-            "code": "300750",
-            "name": "宁德时代",
-            "close": 394.85,
-            "change_rate": 3.31,
-            "prime_inflow": 19.74,
-            "prime_cost": 393.01,
-            "trapped": false,
-            "org_participate": 0.59,
-            "total_score": 75.2,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "603993",
-            "name": "洛阳钼业",
-            "close": 19.11,
-            "change_rate": 10.02,
-            "prime_inflow": 16.86,
-            "prime_cost": 18.69,
-            "trapped": false,
-            "org_participate": 0.56,
-            "total_score": 82.3,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "002384",
-            "name": "东山精密",
-            "close": 217.55,
-            "change_rate": 3.11,
-            "prime_inflow": 15.47,
-            "prime_cost": 219.42,
-            "trapped": true,
-            "org_participate": 0.59,
-            "total_score": 71.7,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "688041",
-            "name": "海光信息",
-            "close": 280,
-            "change_rate": -3.4,
-            "prime_inflow": 14.91,
-            "prime_cost": 290.52,
-            "trapped": true,
-            "org_participate": 0.62,
-            "total_score": 77.9,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "000630",
-            "name": "铜陵有色",
-            "close": 7.1,
-            "change_rate": 10.08,
-            "prime_inflow": 14.28,
-            "prime_cost": 6.93,
-            "trapped": false,
-            "org_participate": 0.6,
-            "total_score": 83.5,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "688525",
-            "name": "佰维存储",
-            "close": 327.9,
-            "change_rate": 1.12,
-            "prime_inflow": 11.64,
-            "prime_cost": 345.09,
-            "trapped": true,
-            "org_participate": 0.65,
-            "total_score": 79.8,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "301308",
-            "name": "江波龙",
-            "close": 514.89,
-            "change_rate": 0.02,
-            "prime_inflow": 11.11,
-            "prime_cost": 537.13,
-            "trapped": true,
-            "org_participate": 0.57,
-            "total_score": 78.5,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "601899",
-            "name": "紫金矿业",
-            "close": 29.09,
-            "change_rate": 6.44,
-            "prime_inflow": 9.18,
-            "prime_cost": 28.87,
-            "trapped": false,
-            "org_participate": 0.55,
-            "total_score": 77.5,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "688347",
-            "name": "华虹宏力",
-            "close": 218.37,
-            "change_rate": -1.35,
-            "prime_inflow": 9.15,
-            "prime_cost": 225.75,
-            "trapped": true,
-            "org_participate": 0.55,
-            "total_score": 72.1,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "300570",
-            "name": "太辰光",
-            "close": 185.08,
-            "change_rate": 4.22,
-            "prime_inflow": 9.07,
-            "prime_cost": 184.28,
-            "trapped": false,
-            "org_participate": 0.52,
-            "total_score": 76.5,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "300274",
-            "name": "阳光电源",
-            "close": 148.76,
-            "change_rate": 1.37,
-            "prime_inflow": 9.07,
-            "prime_cost": 151.64,
-            "trapped": true,
-            "org_participate": 0.52,
-            "total_score": 74.5,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "600111",
-            "name": "北方稀土",
-            "close": 49.43,
-            "change_rate": 4.02,
-            "prime_inflow": 8.86,
-            "prime_cost": 49.45,
-            "trapped": true,
-            "org_participate": 0.48,
-            "total_score": 71.6,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "600601",
-            "name": "方正科技",
-            "close": 12.89,
-            "change_rate": 9.98,
-            "prime_inflow": 8.57,
-            "prime_cost": 12.57,
-            "trapped": false,
-            "org_participate": 0.52,
-            "total_score": 75.4,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "000547",
-            "name": "航天发展",
-            "close": 20.65,
-            "change_rate": 10.02,
-            "prime_inflow": 8.35,
-            "prime_cost": 20.37,
-            "trapped": false,
-            "org_participate": 0.56,
-            "total_score": 58,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "001309",
-            "name": "德明利",
-            "close": 617.43,
-            "change_rate": -2.36,
-            "prime_inflow": 8.35,
-            "prime_cost": 646.79,
-            "trapped": true,
-            "org_participate": 0.55,
-            "total_score": 74.3,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "000988",
-            "name": "华工科技",
-            "close": 151.01,
-            "change_rate": 0.51,
-            "prime_inflow": 8.19,
-            "prime_cost": 152.88,
-            "trapped": true,
-            "org_participate": 0.54,
-            "total_score": 73.6,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "300857",
-            "name": "协创数据",
-            "close": 223.7,
-            "change_rate": 2.41,
-            "prime_inflow": 8.18,
-            "prime_cost": 226.82,
-            "trapped": true,
-            "org_participate": 0.52,
-            "total_score": 75.2,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "688766",
-            "name": "普冉股份",
-            "close": 390.59,
-            "change_rate": 0.78,
-            "prime_inflow": 8.17,
-            "prime_cost": 407.96,
-            "trapped": true,
-            "org_participate": 0.55,
-            "total_score": 75.1,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "688072",
-            "name": "拓荆科技",
-            "close": 645.18,
-            "change_rate": -1.54,
-            "prime_inflow": 7.59,
-            "prime_cost": 674.73,
-            "trapped": true,
-            "org_participate": 0.65,
-            "total_score": 74.9,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "002371",
-            "name": "北方华创",
-            "close": 667.19,
-            "change_rate": 4.66,
-            "prime_inflow": 7.2,
-            "prime_cost": 669.39,
-            "trapped": true,
-            "org_participate": 0.58,
-            "total_score": 79.8,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "300475",
-            "name": "香农芯创",
-            "close": 187.5,
-            "change_rate": 2.93,
-            "prime_inflow": 7.15,
-            "prime_cost": 191.07,
-            "trapped": true,
-            "org_participate": 0.49,
-            "total_score": 78.3,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "000831",
-            "name": "中国稀土",
-            "close": 56.04,
-            "change_rate": 4.18,
-            "prime_inflow": 6.88,
-            "prime_cost": 56.6,
-            "trapped": true,
-            "org_participate": 0.51,
-            "total_score": 73.7,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "600711",
-            "name": "盛屯矿业",
-            "close": 13,
-            "change_rate": 9.89,
-            "prime_inflow": 6.78,
-            "prime_cost": 12.79,
-            "trapped": false,
-            "org_participate": 0.48,
-            "total_score": 76,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "002466",
-            "name": "天齐锂业",
-            "close": 62.5,
-            "change_rate": 2.46,
-            "prime_inflow": 6.77,
-            "prime_cost": 62.01,
-            "trapped": false,
-            "org_participate": 0.45,
-            "total_score": 77.1,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "000960",
-            "name": "锡业股份",
-            "close": 37.65,
-            "change_rate": 8,
-            "prime_inflow": 6.71,
-            "prime_cost": 37.39,
-            "trapped": false,
-            "org_participate": 0.51,
-            "total_score": 77.2,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "600869",
-            "name": "远东股份",
-            "close": 32.43,
-            "change_rate": 9.93,
-            "prime_inflow": 6.69,
-            "prime_cost": 31.24,
-            "trapped": false,
-            "org_participate": 0.55,
-            "total_score": 69.6,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "002812",
-            "name": "恩捷股份",
-            "close": 67.54,
-            "change_rate": 10,
-            "prime_inflow": 6.4,
-            "prime_cost": 65.34,
-            "trapped": false,
-            "org_participate": 0.46,
-            "total_score": 70.3,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "603083",
-            "name": "剑桥科技",
-            "close": 182.99,
-            "change_rate": 6.96,
-            "prime_inflow": 6.36,
-            "prime_cost": 183.86,
-            "trapped": true,
-            "org_participate": 0.5,
-            "total_score": 70.2,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "688012",
-            "name": "中微公司",
-            "close": 303.92,
-            "change_rate": 0.26,
-            "prime_inflow": 6.34,
-            "prime_cost": 313.72,
-            "trapped": true,
-            "org_participate": 0.58,
-            "total_score": 78.4,
-            "date": "2026-06-15"
-        },
-        {
-            "code": "601208",
-            "name": "东材科技",
-            "close": 61.06,
-            "change_rate": -1.07,
-            "prime_inflow": 6.25,
-            "prime_cost": 62.91,
-            "trapped": true,
-            "org_participate": 0.49,
-            "total_score": 71.1,
-            "date": "2026-06-15"
-        }
-    ],
-    "open_positions": [
-        {
-            "code": "601872",
-            "name": "招商轮船",
-            "buy_price": 14.77,
-            "buy_date": "2026-06-12",
-            "strategy": "ambush",
-            "shares": 200,
-            "current_price": 17.16,
-            "pct": 16.18,
-            "tags": [
-                "5阴超跌",
-                "消息面利好"
-            ]
-        },
-        {
-            "code": "601958",
-            "name": "金钼股份",
-            "buy_price": 23.1,
-            "buy_date": "2026-06-12",
-            "strategy": "ambush",
-            "shares": 100,
-            "current_price": 28.07,
-            "pct": 21.52,
-            "tags": [
-                "5阴超跌",
-                "机构参与",
-                "消息面利好"
-            ]
-        },
-        {
-            "code": "002600",
-            "name": "领益智造",
-            "buy_price": 14.01,
-            "buy_date": "2026-06-15",
-            "strategy": "ambush",
-            "shares": 700,
-            "current_price": 15.04,
-            "pct": 7.35,
-            "tags": [
-                "消息面利好",
-                "低价"
-            ]
-        },
-        {
-            "code": "300017",
-            "name": "网宿科技",
-            "buy_price": 14.31,
-            "buy_date": "2026-06-15",
-            "strategy": "ambush",
-            "shares": 700,
-            "current_price": 14.61,
-            "pct": 2.1,
-            "tags": [
-                "消息面利好",
-                "低价"
-            ]
-        },
-        {
-            "code": "600905",
-            "name": "三峡能源",
-            "buy_price": 4.18,
-            "buy_date": "2026-06-15",
-            "strategy": "ambush",
-            "shares": 2400,
-            "current_price": 4.18,
-            "pct": 0,
-            "tags": [
-                "消息面利好",
-                "低价小盘"
-            ]
-        },
-        {
-            "code": "002617",
-            "name": "露笑科技",
-            "buy_price": 8.68,
-            "buy_date": "2026-06-15",
-            "strategy": "mainforce",
-            "shares": 1100,
-            "current_price": 8.95,
-            "pct": 3.11,
-            "tags": [
-                "主力被套",
-                "净流入>2亿",
-                "低价"
-            ]
-        }
-    ],
-    "trades": [
-        {
-            "code": "000630",
-            "name": "铜陵有色",
-            "buy_price": 6.6,
-            "buy_date": "2026-06-12",
-            "sell_price": 7.57,
-            "sell_date": "2026-06-15",
-            "shares": 500,
-            "profit": 485,
-            "profit_pct": 14.7,
-            "strategy": "ambush",
-            "tags": [
-                "5阴超跌",
-                "主力被套",
-                "低价小盘"
-            ]
-        }
-    ],
-    "equity": [
-        {
-            "date": "2026-06-12",
-            "equity": 1
-        },
-        {
-            "date": "2026-06-12c",
-            "equity": 1.0658
-        },
-        {
-            "date": "2026-06-15",
-            "equity": 1.008
-        },
-        {
-            "date": "2026-06-15b",
-            "equity": 1.0538
-        }
-    ],
-    "monthly": [],
-    "reports": [],
-    "portrait": [
-        {
-            "code": "000630",
-            "name": "铜陵有色",
-            "signal_price": 6.6,
-            "limit_price": 7.1,
-            "tags": [
-                "5阴超跌",
-                "主力被套",
-                "低价小盘"
-            ],
-            "date": "2026-06-12"
-        },
-        {
-            "code": "601958",
-            "name": "金钼股份",
-            "signal_price": 23.1,
-            "limit_price": 25.52,
-            "tags": [
-                "5阴超跌",
-                "机构参与",
-                "消息面利好"
-            ],
-            "date": "2026-06-12"
-        },
-        {
-            "code": "002617",
-            "name": "露笑科技",
-            "signal_price": 8.68,
-            "limit_price": 8.95,
-            "tags": [
-                "主力被套",
-                "净流入>2亿",
-                "低价"
-            ],
-            "date": "2026-06-15"
-        }
-    ],
-    "features": {
-        "five_yin": {
-            "hit": 2,
-            "total": 3,
-            "rate": "66%"
-        },
-        "trapped": {
-            "hit": 2,
-            "total": 3,
-            "rate": "66%"
-        },
-        "shrink_vol": {
-            "hit": 0,
-            "total": 2,
-            "rate": "0%"
-        },
-        "good_news": {
-            "hit": 1,
-            "total": 3,
-            "rate": "33%"
-        },
-        "org_join": {
-            "hit": 1,
-            "total": 2,
-            "rate": "50%"
-        },
-        "low_cap": {
-            "hit": 1,
-            "total": 2,
-            "rate": "50%"
-        }
+    {
+      "code": "603993",
+      "name": "洛阳钼业",
+      "close": 19.11,
+      "change_rate": 10.02,
+      "prime_inflow": 16.86,
+      "prime_cost": 18.69,
+      "trapped": false,
+      "org_participate": 0.56,
+      "total_score": 82.3,
+      "date": "2026-06-15"
     },
-    "mainforce_top10": [
-        {
-            "rank": 1,
-            "code": "600905",
-            "name": "三峡能源",
-            "close": 4.18,
-            "prime_cost": 4.22,
-            "trapped": 1.02,
-            "inflow_B": 4.06,
-            "score": 55,
-            "alert": "STRONG",
-            "tags": "主力被套/净流入>2亿/低价",
-            "date": "2026-06-15"
-        },
-        {
-            "rank": 2,
-            "code": "600221",
-            "name": "海航控股",
-            "close": 1.53,
-            "prime_cost": 1.54,
-            "trapped": 0.54,
-            "inflow_B": 2.66,
-            "score": 55,
-            "alert": "STRONG",
-            "tags": "主力被套/净流入>2亿/低价",
-            "date": "2026-06-15"
-        },
-        {
-            "rank": 3,
-            "code": "688041",
-            "name": "海光信息",
-            "close": 280,
-            "prime_cost": 290.52,
-            "trapped": 3.62,
-            "inflow_B": 14.91,
-            "score": 45,
-            "alert": "MEDIUM",
-            "tags": "主力被套/超级主力>5亿",
-            "date": "2026-06-15"
-        },
-        {
-            "rank": 4,
-            "code": "600111",
-            "name": "北方稀土",
-            "close": 49.43,
-            "prime_cost": 49.45,
-            "trapped": 0.03,
-            "inflow_B": 8.86,
-            "score": 45,
-            "alert": "MEDIUM",
-            "tags": "主力被套/超级主力>5亿",
-            "date": "2026-06-15"
-        },
-        {
-            "rank": 5,
-            "code": "002602",
-            "name": "世纪华通",
-            "close": 14.37,
-            "prime_cost": 14.92,
-            "trapped": 3.69,
-            "inflow_B": 5.05,
-            "score": 45,
-            "alert": "MEDIUM",
-            "tags": "主力被套/超级主力>5亿",
-            "date": "2026-06-15"
-        },
-        {
-            "rank": 6,
-            "code": "002617",
-            "name": "露笑科技",
-            "close": 8.5,
-            "prime_cost": 8.72,
-            "trapped": 2.5,
-            "inflow_B": 3.35,
-            "score": 45,
-            "alert": "MEDIUM",
-            "tags": "主力被套/净流入>2亿/活跃换手",
-            "date": "2026-06-15"
-        },
-        {
-            "rank": 7,
-            "code": "301611",
-            "name": "珂玛科技",
-            "close": 108.55,
-            "prime_cost": 114.83,
-            "trapped": 5.47,
-            "inflow_B": 2.59,
-            "score": 45,
-            "alert": "MEDIUM",
-            "tags": "主力被套/净流入>2亿/活跃换手",
-            "date": "2026-06-15"
-        },
-        {
-            "rank": 8,
-            "code": "600909",
-            "name": "华安证券",
-            "close": 7.35,
-            "prime_cost": 7.39,
-            "trapped": 0.59,
-            "inflow_B": 1.56,
-            "score": 45,
-            "alert": "MEDIUM",
-            "tags": "主力被套/净流入>1亿/低价",
-            "date": "2026-06-15"
-        },
-        {
-            "rank": 9,
-            "code": "002600",
-            "name": "领益智造",
-            "close": 14.01,
-            "prime_cost": 14.25,
-            "trapped": 1.65,
-            "inflow_B": 3.59,
-            "score": 40,
-            "alert": "MEDIUM",
-            "tags": "主力被套/净流入>2亿",
-            "date": "2026-06-15"
-        },
-        {
-            "rank": 10,
-            "code": "300751",
-            "name": "迈为股份",
-            "close": 213,
-            "prime_cost": 225.41,
-            "trapped": 5.51,
-            "inflow_B": 3.47,
-            "score": 40,
-            "alert": "MEDIUM",
-            "tags": "主力被套/净流入>2亿",
-            "date": "2026-06-15"
-        }
-    ],
-    "ambush_top10": [
-        {
-            "rank": 1,
-            "code": "300750",
-            "name": "宁德时代",
-            "close": 394.85,
-            "score": 95,
-            "alert": "STRONG",
-            "strategy": "埋伏",
-            "signal": "主力建仓",
-            "inflow_B": 19.74,
-            "float_pct": -1.15,
-            "tags": "主力流入/低位/储能订单利好",
-            "news": "F5实质性利好+20",
-            "date": "2026-06-15"
-        },
-        {
-            "rank": 2,
-            "code": "600362",
-            "name": "江西铜业",
-            "close": 43.05,
-            "score": 90,
-            "alert": "STRONG",
-            "strategy": "埋伏",
-            "signal": "主力建仓",
-            "inflow_B": 4.27,
-            "float_pct": -5.6,
-            "tags": "板块共振/基本金属",
-            "news": "F9消息面A级+15",
-            "date": "2026-06-15"
-        },
-        {
-            "rank": 3,
-            "code": "300274",
-            "name": "阳光电源",
-            "close": 148.76,
-            "score": 85,
-            "alert": "STRONG",
-            "strategy": "埋伏",
-            "signal": "主力建仓",
-            "inflow_B": 9.07,
-            "float_pct": -5.34,
-            "tags": "主力流入/中东储能大单",
-            "news": "F5实质性利好+20",
-            "date": "2026-06-15"
-        },
-        {
-            "rank": 4,
-            "code": "300014",
-            "name": "亿纬锂能",
-            "close": 57.67,
-            "score": 85,
-            "alert": "STRONG",
-            "strategy": "埋伏",
-            "signal": "主力建仓",
-            "inflow_B": 5.05,
-            "float_pct": -3.41,
-            "tags": "港股IPO/固态电池",
-            "news": "F5实质性利好+20",
-            "date": "2026-06-15"
-        },
-        {
-            "rank": 5,
-            "code": "600988",
-            "name": "赤峰黄金",
-            "close": 30.37,
-            "score": 85,
-            "alert": "STRONG",
-            "strategy": "埋伏",
-            "signal": "主力建仓",
-            "inflow_B": 2.11,
-            "float_pct": -6.41,
-            "tags": "黄金/主力被套",
-            "news": "F9消息面A级+15",
-            "date": "2026-06-15"
-        },
-        {
-            "rank": 6,
-            "code": "603308",
-            "name": "应流股份",
-            "close": 60.15,
-            "score": 85,
-            "alert": "STRONG",
-            "strategy": "埋伏",
-            "signal": "主力建仓",
-            "inflow_B": 1.47,
-            "float_pct": -6.56,
-            "tags": "航空航天/板块共振",
-            "news": "F9消息面A级+15",
-            "date": "2026-06-15"
-        },
-        {
-            "rank": 7,
-            "code": "300139",
-            "name": "晓程科技",
-            "close": 42.25,
-            "score": 75,
-            "alert": "STRONG",
-            "strategy": "埋伏",
-            "signal": "主力建仓",
-            "inflow_B": 1.58,
-            "float_pct": -6.89,
-            "tags": "主力流入/高换手",
-            "news": "",
-            "date": "2026-06-15"
-        },
-        {
-            "rank": 8,
-            "code": "002487",
-            "name": "大金重工",
-            "close": 59.55,
-            "score": 75,
-            "alert": "STRONG",
-            "strategy": "埋伏",
-            "signal": "主力建仓",
-            "inflow_B": 1.46,
-            "float_pct": 0.54,
-            "tags": "RSI超卖/风电",
-            "news": "",
-            "date": "2026-06-15"
-        },
-        {
-            "rank": 9,
-            "code": "603435",
-            "name": "嘉德利",
-            "close": 60.91,
-            "score": 70,
-            "alert": "STRONG",
-            "strategy": "埋伏",
-            "signal": "龙虎榜",
-            "inflow_B": 0,
-            "float_pct": 0,
-            "tags": "龙虎榜/板块共振",
-            "news": "",
-            "date": "2026-06-15"
-        },
-        {
-            "rank": 10,
-            "code": "300438",
-            "name": "鹏辉能源",
-            "close": 75.18,
-            "score": 65,
-            "alert": "MEDIUM",
-            "strategy": "埋伏",
-            "signal": "主力建仓",
-            "inflow_B": 4.13,
-            "float_pct": -3.48,
-            "tags": "主力流入/储能",
-            "news": "F5实质性利好+20",
-            "date": "2026-06-15"
-        }
-    ]
+    {
+      "code": "002384",
+      "name": "东山精密",
+      "close": 217.55,
+      "change_rate": 3.11,
+      "prime_inflow": 15.47,
+      "prime_cost": 219.42,
+      "trapped": true,
+      "org_participate": 0.59,
+      "total_score": 71.7,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "688041",
+      "name": "海光信息",
+      "close": 280,
+      "change_rate": -3.4,
+      "prime_inflow": 14.91,
+      "prime_cost": 290.52,
+      "trapped": true,
+      "org_participate": 0.62,
+      "total_score": 77.9,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "000630",
+      "name": "铜陵有色",
+      "close": 7.1,
+      "change_rate": 10.08,
+      "prime_inflow": 14.28,
+      "prime_cost": 6.93,
+      "trapped": false,
+      "org_participate": 0.6,
+      "total_score": 83.5,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "688525",
+      "name": "佰维存储",
+      "close": 327.9,
+      "change_rate": 1.12,
+      "prime_inflow": 11.64,
+      "prime_cost": 345.09,
+      "trapped": true,
+      "org_participate": 0.65,
+      "total_score": 79.8,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "301308",
+      "name": "江波龙",
+      "close": 514.89,
+      "change_rate": 0.02,
+      "prime_inflow": 11.11,
+      "prime_cost": 537.13,
+      "trapped": true,
+      "org_participate": 0.57,
+      "total_score": 78.5,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "601899",
+      "name": "紫金矿业",
+      "close": 29.09,
+      "change_rate": 6.44,
+      "prime_inflow": 9.18,
+      "prime_cost": 28.87,
+      "trapped": false,
+      "org_participate": 0.55,
+      "total_score": 77.5,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "688347",
+      "name": "华虹宏力",
+      "close": 218.37,
+      "change_rate": -1.35,
+      "prime_inflow": 9.15,
+      "prime_cost": 225.75,
+      "trapped": true,
+      "org_participate": 0.55,
+      "total_score": 72.1,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "300570",
+      "name": "太辰光",
+      "close": 185.08,
+      "change_rate": 4.22,
+      "prime_inflow": 9.07,
+      "prime_cost": 184.28,
+      "trapped": false,
+      "org_participate": 0.52,
+      "total_score": 76.5,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "300274",
+      "name": "阳光电源",
+      "close": 148.76,
+      "change_rate": 1.37,
+      "prime_inflow": 9.07,
+      "prime_cost": 151.64,
+      "trapped": true,
+      "org_participate": 0.52,
+      "total_score": 74.5,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "600111",
+      "name": "北方稀土",
+      "close": 49.43,
+      "change_rate": 4.02,
+      "prime_inflow": 8.86,
+      "prime_cost": 49.45,
+      "trapped": true,
+      "org_participate": 0.48,
+      "total_score": 71.6,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "600601",
+      "name": "方正科技",
+      "close": 12.89,
+      "change_rate": 9.98,
+      "prime_inflow": 8.57,
+      "prime_cost": 12.57,
+      "trapped": false,
+      "org_participate": 0.52,
+      "total_score": 75.4,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "000547",
+      "name": "航天发展",
+      "close": 20.65,
+      "change_rate": 10.02,
+      "prime_inflow": 8.35,
+      "prime_cost": 20.37,
+      "trapped": false,
+      "org_participate": 0.56,
+      "total_score": 58.0,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "001309",
+      "name": "德明利",
+      "close": 617.43,
+      "change_rate": -2.36,
+      "prime_inflow": 8.35,
+      "prime_cost": 646.79,
+      "trapped": true,
+      "org_participate": 0.55,
+      "total_score": 74.3,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "000988",
+      "name": "华工科技",
+      "close": 151.01,
+      "change_rate": 0.51,
+      "prime_inflow": 8.19,
+      "prime_cost": 152.88,
+      "trapped": true,
+      "org_participate": 0.54,
+      "total_score": 73.6,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "300857",
+      "name": "协创数据",
+      "close": 223.7,
+      "change_rate": 2.41,
+      "prime_inflow": 8.18,
+      "prime_cost": 226.82,
+      "trapped": true,
+      "org_participate": 0.52,
+      "total_score": 75.2,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "688766",
+      "name": "普冉股份",
+      "close": 390.59,
+      "change_rate": 0.78,
+      "prime_inflow": 8.17,
+      "prime_cost": 407.96,
+      "trapped": true,
+      "org_participate": 0.55,
+      "total_score": 75.1,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "688072",
+      "name": "拓荆科技",
+      "close": 645.18,
+      "change_rate": -1.54,
+      "prime_inflow": 7.59,
+      "prime_cost": 674.73,
+      "trapped": true,
+      "org_participate": 0.65,
+      "total_score": 74.9,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "002371",
+      "name": "北方华创",
+      "close": 667.19,
+      "change_rate": 4.66,
+      "prime_inflow": 7.2,
+      "prime_cost": 669.39,
+      "trapped": true,
+      "org_participate": 0.58,
+      "total_score": 79.8,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "300475",
+      "name": "香农芯创",
+      "close": 187.5,
+      "change_rate": 2.93,
+      "prime_inflow": 7.15,
+      "prime_cost": 191.07,
+      "trapped": true,
+      "org_participate": 0.49,
+      "total_score": 78.3,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "000831",
+      "name": "中国稀土",
+      "close": 56.04,
+      "change_rate": 4.18,
+      "prime_inflow": 6.88,
+      "prime_cost": 56.6,
+      "trapped": true,
+      "org_participate": 0.51,
+      "total_score": 73.7,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "600711",
+      "name": "盛屯矿业",
+      "close": 13,
+      "change_rate": 9.89,
+      "prime_inflow": 6.78,
+      "prime_cost": 12.79,
+      "trapped": false,
+      "org_participate": 0.48,
+      "total_score": 76.0,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "002466",
+      "name": "天齐锂业",
+      "close": 62.5,
+      "change_rate": 2.46,
+      "prime_inflow": 6.77,
+      "prime_cost": 62.01,
+      "trapped": false,
+      "org_participate": 0.45,
+      "total_score": 77.1,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "000960",
+      "name": "锡业股份",
+      "close": 37.65,
+      "change_rate": 8.0,
+      "prime_inflow": 6.71,
+      "prime_cost": 37.39,
+      "trapped": false,
+      "org_participate": 0.51,
+      "total_score": 77.2,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "600869",
+      "name": "远东股份",
+      "close": 32.43,
+      "change_rate": 9.93,
+      "prime_inflow": 6.69,
+      "prime_cost": 31.24,
+      "trapped": false,
+      "org_participate": 0.55,
+      "total_score": 69.6,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "002812",
+      "name": "恩捷股份",
+      "close": 67.54,
+      "change_rate": 10,
+      "prime_inflow": 6.4,
+      "prime_cost": 65.34,
+      "trapped": false,
+      "org_participate": 0.46,
+      "total_score": 70.3,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "603083",
+      "name": "剑桥科技",
+      "close": 182.99,
+      "change_rate": 6.96,
+      "prime_inflow": 6.36,
+      "prime_cost": 183.86,
+      "trapped": true,
+      "org_participate": 0.5,
+      "total_score": 70.2,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "688012",
+      "name": "中微公司",
+      "close": 303.92,
+      "change_rate": 0.26,
+      "prime_inflow": 6.34,
+      "prime_cost": 313.72,
+      "trapped": true,
+      "org_participate": 0.58,
+      "total_score": 78.4,
+      "date": "2026-06-15"
+    },
+    {
+      "code": "601208",
+      "name": "东材科技",
+      "close": 61.06,
+      "change_rate": -1.07,
+      "prime_inflow": 6.25,
+      "prime_cost": 62.91,
+      "trapped": true,
+      "org_participate": 0.49,
+      "total_score": 71.1,
+      "date": "2026-06-15"
+    }
+  ],
+  "open_positions": [
+    {
+      "code": "601872",
+      "name": "招商轮船",
+      "buy_price": 14.77,
+      "buy_date": "2026-06-12",
+      "strategy": "ambush",
+      "shares": 200,
+      "current_price": 17.16,
+      "pct": 16.18,
+      "tags": [
+        "5阴超跌",
+        "消息面利好"
+      ]
+    },
+    {
+      "code": "601958",
+      "name": "金钼股份",
+      "buy_price": 23.1,
+      "buy_date": "2026-06-12",
+      "strategy": "ambush",
+      "shares": 100,
+      "current_price": 28.07,
+      "pct": 21.52,
+      "tags": [
+        "5阴超跌",
+        "机构参与",
+        "消息面利好"
+      ]
+    },
+    {
+      "code": "002600",
+      "name": "领益智造",
+      "buy_price": 14.01,
+      "buy_date": "2026-06-15",
+      "strategy": "ambush",
+      "shares": 700,
+      "current_price": 15.04,
+      "pct": 7.35,
+      "tags": [
+        "消息面利好",
+        "低价"
+      ]
+    },
+    {
+      "code": "300017",
+      "name": "网宿科技",
+      "buy_price": 14.31,
+      "buy_date": "2026-06-15",
+      "strategy": "ambush",
+      "shares": 700,
+      "current_price": 14.61,
+      "pct": 2.1,
+      "tags": [
+        "消息面利好",
+        "低价"
+      ]
+    },
+    {
+      "code": "600905",
+      "name": "三峡能源",
+      "buy_price": 4.18,
+      "buy_date": "2026-06-15",
+      "strategy": "ambush",
+      "shares": 2400,
+      "current_price": 4.18,
+      "pct": 0.0,
+      "tags": [
+        "消息面利好",
+        "低价小盘"
+      ]
+    },
+    {
+      "code": "002617",
+      "name": "露笑科技",
+      "buy_price": 8.68,
+      "buy_date": "2026-06-15",
+      "strategy": "mainforce",
+      "shares": 1100,
+      "current_price": 8.95,
+      "pct": 3.11,
+      "tags": [
+        "主力被套",
+        "净流入>2亿",
+        "低价"
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "code": "000630",
+      "name": "铜陵有色",
+      "buy_price": 6.6,
+      "buy_date": "2026-06-12",
+      "sell_price": 7.57,
+      "sell_date": "2026-06-15",
+      "shares": 500,
+      "profit": 485.0,
+      "profit_pct": 14.7,
+      "strategy": "ambush",
+      "tags": [
+        "5阴超跌",
+        "主力被套",
+        "低价小盘"
+      ]
+    }
+  ],
+  "equity": [
+    {
+      "date": "2026-06-12",
+      "equity": 1.0
+    },
+    {
+      "date": "2026-06-12c",
+      "equity": 1.0658
+    },
+    {
+      "date": "2026-06-15",
+      "equity": 1.008
+    },
+    {
+      "date": "2026-06-15b",
+      "equity": 1.0538
+    }
+  ],
+  "monthly": [],
+  "reports": [],
+  "portrait": [
+    {
+      "code": "000630",
+      "name": "铜陵有色",
+      "signal_price": 6.6,
+      "limit_price": 7.1,
+      "tags": [
+        "5阴超跌",
+        "主力被套",
+        "低价小盘"
+      ],
+      "date": "2026-06-12"
+    },
+    {
+      "code": "601958",
+      "name": "金钼股份",
+      "signal_price": 23.1,
+      "limit_price": 25.52,
+      "tags": [
+        "5阴超跌",
+        "机构参与",
+        "消息面利好"
+      ],
+      "date": "2026-06-12"
+    },
+    {
+      "code": "002617",
+      "name": "露笑科技",
+      "signal_price": 8.68,
+      "limit_price": 8.95,
+      "tags": [
+        "主力被套",
+        "净流入>2亿",
+        "低价"
+      ],
+      "date": "2026-06-15"
+    }
+  ],
+  "features": {
+    "five_yin": {
+      "hit": 2,
+      "total": 3,
+      "rate": "66%"
+    },
+    "trapped": {
+      "hit": 2,
+      "total": 3,
+      "rate": "66%"
+    },
+    "shrink_vol": {
+      "hit": 0,
+      "total": 2,
+      "rate": "0%"
+    },
+    "good_news": {
+      "hit": 1,
+      "total": 3,
+      "rate": "33%"
+    },
+    "org_join": {
+      "hit": 1,
+      "total": 2,
+      "rate": "50%"
+    },
+    "low_cap": {
+      "hit": 1,
+      "total": 2,
+      "rate": "50%"
+    }
+  },
+  "mainforce_top10": [
+    {
+      "rank": 1,
+      "code": "600905",
+      "name": "三峡能源",
+      "close": 4.18,
+      "prime_cost": 4.22,
+      "trapped": 1.02,
+      "inflow_B": 4.06,
+      "score": 55,
+      "alert": "STRONG",
+      "tags": "主力被套/净流入>2亿/低价",
+      "date": "2026-06-15"
+    },
+    {
+      "rank": 2,
+      "code": "600221",
+      "name": "海航控股",
+      "close": 1.53,
+      "prime_cost": 1.54,
+      "trapped": 0.54,
+      "inflow_B": 2.66,
+      "score": 55,
+      "alert": "STRONG",
+      "tags": "主力被套/净流入>2亿/低价",
+      "date": "2026-06-15"
+    },
+    {
+      "rank": 3,
+      "code": "688041",
+      "name": "海光信息",
+      "close": 280,
+      "prime_cost": 290.52,
+      "trapped": 3.62,
+      "inflow_B": 14.91,
+      "score": 45,
+      "alert": "MEDIUM",
+      "tags": "主力被套/超级主力>5亿",
+      "date": "2026-06-15"
+    },
+    {
+      "rank": 4,
+      "code": "600111",
+      "name": "北方稀土",
+      "close": 49.43,
+      "prime_cost": 49.45,
+      "trapped": 0.03,
+      "inflow_B": 8.86,
+      "score": 45,
+      "alert": "MEDIUM",
+      "tags": "主力被套/超级主力>5亿",
+      "date": "2026-06-15"
+    },
+    {
+      "rank": 5,
+      "code": "002602",
+      "name": "世纪华通",
+      "close": 14.37,
+      "prime_cost": 14.92,
+      "trapped": 3.69,
+      "inflow_B": 5.05,
+      "score": 45,
+      "alert": "MEDIUM",
+      "tags": "主力被套/超级主力>5亿",
+      "date": "2026-06-15"
+    },
+    {
+      "rank": 6,
+      "code": "002617",
+      "name": "露笑科技",
+      "close": 8.5,
+      "prime_cost": 8.72,
+      "trapped": 2.5,
+      "inflow_B": 3.35,
+      "score": 45,
+      "alert": "MEDIUM",
+      "tags": "主力被套/净流入>2亿/活跃换手",
+      "date": "2026-06-15"
+    },
+    {
+      "rank": 7,
+      "code": "301611",
+      "name": "珂玛科技",
+      "close": 108.55,
+      "prime_cost": 114.83,
+      "trapped": 5.47,
+      "inflow_B": 2.59,
+      "score": 45,
+      "alert": "MEDIUM",
+      "tags": "主力被套/净流入>2亿/活跃换手",
+      "date": "2026-06-15"
+    },
+    {
+      "rank": 8,
+      "code": "600909",
+      "name": "华安证券",
+      "close": 7.35,
+      "prime_cost": 7.39,
+      "trapped": 0.59,
+      "inflow_B": 1.56,
+      "score": 45,
+      "alert": "MEDIUM",
+      "tags": "主力被套/净流入>1亿/低价",
+      "date": "2026-06-15"
+    },
+    {
+      "rank": 9,
+      "code": "002600",
+      "name": "领益智造",
+      "close": 14.01,
+      "prime_cost": 14.25,
+      "trapped": 1.65,
+      "inflow_B": 3.59,
+      "score": 40,
+      "alert": "MEDIUM",
+      "tags": "主力被套/净流入>2亿",
+      "date": "2026-06-15"
+    },
+    {
+      "rank": 10,
+      "code": "300751",
+      "name": "迈为股份",
+      "close": 213,
+      "prime_cost": 225.41,
+      "trapped": 5.51,
+      "inflow_B": 3.47,
+      "score": 40,
+      "alert": "MEDIUM",
+      "tags": "主力被套/净流入>2亿",
+      "date": "2026-06-15"
+    }
+  ],
+  "ambush_top10": [
+    {
+      "rank": 1,
+      "code": "300750",
+      "name": "宁德时代",
+      "close": 394.85,
+      "score": 95,
+      "alert": "STRONG",
+      "strategy": "埋伏",
+      "signal": "主力建仓",
+      "inflow_B": 19.74,
+      "float_pct": -1.15,
+      "tags": "主力流入/低位/储能订单利好",
+      "news": "F5实质性利好+20",
+      "date": "2026-06-15"
+    },
+    {
+      "rank": 2,
+      "code": "600362",
+      "name": "江西铜业",
+      "close": 43.05,
+      "score": 90,
+      "alert": "STRONG",
+      "strategy": "埋伏",
+      "signal": "主力建仓",
+      "inflow_B": 4.27,
+      "float_pct": -5.6,
+      "tags": "板块共振/基本金属",
+      "news": "F9消息面A级+15",
+      "date": "2026-06-15"
+    },
+    {
+      "rank": 3,
+      "code": "300274",
+      "name": "阳光电源",
+      "close": 148.76,
+      "score": 85,
+      "alert": "STRONG",
+      "strategy": "埋伏",
+      "signal": "主力建仓",
+      "inflow_B": 9.07,
+      "float_pct": -5.34,
+      "tags": "主力流入/中东储能大单",
+      "news": "F5实质性利好+20",
+      "date": "2026-06-15"
+    },
+    {
+      "rank": 4,
+      "code": "300014",
+      "name": "亿纬锂能",
+      "close": 57.67,
+      "score": 85,
+      "alert": "STRONG",
+      "strategy": "埋伏",
+      "signal": "主力建仓",
+      "inflow_B": 5.05,
+      "float_pct": -3.41,
+      "tags": "港股IPO/固态电池",
+      "news": "F5实质性利好+20",
+      "date": "2026-06-15"
+    },
+    {
+      "rank": 5,
+      "code": "600988",
+      "name": "赤峰黄金",
+      "close": 30.37,
+      "score": 85,
+      "alert": "STRONG",
+      "strategy": "埋伏",
+      "signal": "主力建仓",
+      "inflow_B": 2.11,
+      "float_pct": -6.41,
+      "tags": "黄金/主力被套",
+      "news": "F9消息面A级+15",
+      "date": "2026-06-15"
+    },
+    {
+      "rank": 6,
+      "code": "603308",
+      "name": "应流股份",
+      "close": 60.15,
+      "score": 85,
+      "alert": "STRONG",
+      "strategy": "埋伏",
+      "signal": "主力建仓",
+      "inflow_B": 1.47,
+      "float_pct": -6.56,
+      "tags": "航空航天/板块共振",
+      "news": "F9消息面A级+15",
+      "date": "2026-06-15"
+    },
+    {
+      "rank": 7,
+      "code": "300139",
+      "name": "晓程科技",
+      "close": 42.25,
+      "score": 75,
+      "alert": "STRONG",
+      "strategy": "埋伏",
+      "signal": "主力建仓",
+      "inflow_B": 1.58,
+      "float_pct": -6.89,
+      "tags": "主力流入/高换手",
+      "news": "",
+      "date": "2026-06-15"
+    },
+    {
+      "rank": 8,
+      "code": "002487",
+      "name": "大金重工",
+      "close": 59.55,
+      "score": 75,
+      "alert": "STRONG",
+      "strategy": "埋伏",
+      "signal": "主力建仓",
+      "inflow_B": 1.46,
+      "float_pct": 0.54,
+      "tags": "RSI超卖/风电",
+      "news": "",
+      "date": "2026-06-15"
+    },
+    {
+      "rank": 9,
+      "code": "603435",
+      "name": "嘉德利",
+      "close": 60.91,
+      "score": 70,
+      "alert": "STRONG",
+      "strategy": "埋伏",
+      "signal": "龙虎榜",
+      "inflow_B": 0,
+      "float_pct": 0,
+      "tags": "龙虎榜/板块共振",
+      "news": "",
+      "date": "2026-06-15"
+    },
+    {
+      "rank": 10,
+      "code": "300438",
+      "name": "鹏辉能源",
+      "close": 75.18,
+      "score": 65,
+      "alert": "MEDIUM",
+      "strategy": "埋伏",
+      "signal": "主力建仓",
+      "inflow_B": 4.13,
+      "float_pct": -3.48,
+      "tags": "主力流入/储能",
+      "news": "F5实质性利好+20",
+      "date": "2026-06-15"
+    }
+  ]
 }
