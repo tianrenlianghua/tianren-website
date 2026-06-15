@@ -493,7 +493,15 @@
       "equity": 1.0538
     }
   ],
-  "monthly": [],
+  "monthly": [
+    {
+      "month": "2026-06",
+      "ret": 5.38,
+      "dd": 0.0,
+      "trades": 1,
+      "wr": 100.0
+    }
+  ],
   "reports": [],
   "portrait": [
     {
