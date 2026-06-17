@@ -1,9 +1,9 @@
 {
   "meta": {
-    "last_update": "2026-06-17 11:32",
+    "last_update": "2026-06-17 13:25",
     "start_date": "2026-06-12",
     "initial_capital": 10000,
-    "current_capital": 18927.59,
+    "current_capital": 18337.59,
     "total_capital": 400000
   },
   "pool": [
@@ -390,8 +390,8 @@
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
       "shares": 200,
-      "current_price": 67.1,
-      "pct": 7.34,
+      "current_price": 67.27,
+      "pct": 7.61,
       "tags": [
         "主力浮盈",
         "净流入",
@@ -405,8 +405,8 @@
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
       "shares": 100,
-      "current_price": 72.16,
-      "pct": 1.29,
+      "current_price": 70.94,
+      "pct": -0.42,
       "tags": [
         "主力浮盈",
         "净流入",
@@ -420,8 +420,8 @@
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
       "shares": 400,
-      "current_price": 24.54,
-      "pct": -0.08,
+      "current_price": 24.12,
+      "pct": -1.79,
       "tags": [
         "主力浮盈",
         "净流入",
@@ -431,16 +431,17 @@
     {
       "code": "000338",
       "name": "潍柴动力",
-      "buy_price": 28.95,
+      "buy_price": 29.05,
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
-      "shares": 300,
-      "current_price": 29.3,
-      "pct": 1.21,
+      "shares": 500,
+      "current_price": 29.17,
+      "pct": 0.41,
       "tags": [
         "主力浮盈",
         "净流入",
-        "工程机械"
+        "工程机械",
+        "加仓"
       ]
     },
     {
@@ -450,8 +451,8 @@
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
       "shares": 600,
-      "current_price": 18.55,
-      "pct": 28.55,
+      "current_price": 18.98,
+      "pct": 31.53,
       "tags": [
         "主力浮盈",
         "净流入",
@@ -465,8 +466,8 @@
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
       "shares": 300,
-      "current_price": 36.5,
-      "pct": 1.64,
+      "current_price": 36.29,
+      "pct": 1.06,
       "tags": [
         "主力浮盈",
         "净流入",
@@ -480,8 +481,8 @@
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
       "shares": 200,
-      "current_price": 548.0,
-      "pct": -0.73,
+      "current_price": 548.5,
+      "pct": -0.64,
       "tags": [
         "超级主力",
         "净流入",
@@ -495,8 +496,8 @@
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
       "shares": 200,
-      "current_price": 326.5,
-      "pct": 0.42,
+      "current_price": 323.3,
+      "pct": -0.57,
       "tags": [
         "超级主力",
         "净流入",
@@ -524,8 +525,8 @@
       "buy_date": "2026-06-17",
       "strategy": "manual",
       "shares": 300,
-      "current_price": 18.62,
-      "pct": 4.14,
+      "current_price": 18.48,
+      "pct": 3.36,
       "tags": [
         "手动买入",
         "5G概念"
@@ -538,8 +539,8 @@
       "buy_date": "2026-06-17",
       "strategy": "ambush",
       "shares": 200,
-      "current_price": 73.92,
-      "pct": 1.87,
+      "current_price": 74.19,
+      "pct": 2.25,
       "tags": [
         "伏击策略",
         "主力被套",
@@ -568,8 +569,8 @@
       "buy_date": "2026-06-17",
       "strategy": "ambush",
       "shares": 200,
-      "current_price": 37.3,
-      "pct": -1.37,
+      "current_price": 37.52,
+      "pct": -0.79,
       "tags": [
         "伏击策略",
         "主力净流入",
@@ -589,6 +590,54 @@
         "伏击策略",
         "AI视觉",
         "低位"
+      ]
+    },
+    {
+      "code": "601778",
+      "name": "晶科科技",
+      "buy_price": 5.04,
+      "buy_date": "2026-06-17",
+      "strategy": "ambush",
+      "shares": 1000,
+      "current_price": 5.04,
+      "pct": 0.0,
+      "tags": [
+        "伏击策略",
+        "RSI超卖",
+        "KDJ金叉",
+        "光伏"
+      ]
+    },
+    {
+      "code": "002602",
+      "name": "世纪华通",
+      "buy_price": 13.02,
+      "buy_date": "2026-06-17",
+      "strategy": "ambush",
+      "shares": 500,
+      "current_price": 13.0,
+      "pct": -0.15,
+      "tags": [
+        "伏击策略",
+        "RSI超卖",
+        "BOLL支撑",
+        "游戏"
+      ]
+    },
+    {
+      "code": "002131",
+      "name": "利欧股份",
+      "buy_price": 5.34,
+      "buy_date": "2026-06-17",
+      "strategy": "ambush",
+      "shares": 1000,
+      "current_price": 5.35,
+      "pct": 0.19,
+      "tags": [
+        "伏击策略",
+        "5阴超跌",
+        "低位",
+        "互联网营销"
       ]
     }
   ],
@@ -742,7 +791,7 @@
     },
     {
       "date": "2026-06-17",
-      "equity": 1.8928
+      "equity": 1.8338
     }
   ],
   "monthly": [
