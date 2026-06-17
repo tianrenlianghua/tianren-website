@@ -1,10 +1,10 @@
 {
   "meta": {
-    "last_update": "2026-06-16 19:58",
+    "last_update": "2026-06-17 09:57",
     "start_date": "2026-06-12",
     "initial_capital": 10000,
-    "current_capital": 12623.0,
-    "total_capital": 300000
+    "current_capital": 14194.58,
+    "total_capital": 400000
   },
   "pool": [
     {
@@ -16,8 +16,8 @@
       "prime_cost": 131.63,
       "trapped": false,
       "org_participate": 0.56,
-      "total_score": 74.9,
-      "date": "2026-06-16"
+      "total_score": 81.6,
+      "date": "2026-06-17"
     },
     {
       "code": "600105",
@@ -28,8 +28,8 @@
       "prime_cost": 56.43,
       "trapped": false,
       "org_participate": 0.55,
-      "total_score": 70.6,
-      "date": "2026-06-16"
+      "total_score": 75.5,
+      "date": "2026-06-17"
     },
     {
       "code": "600487",
@@ -40,8 +40,8 @@
       "prime_cost": 105.22,
       "trapped": false,
       "org_participate": 0.55,
-      "total_score": 71.9,
-      "date": "2026-06-16"
+      "total_score": 77.6,
+      "date": "2026-06-17"
     },
     {
       "code": "600392",
@@ -52,8 +52,8 @@
       "prime_cost": 28.5,
       "trapped": false,
       "org_participate": 0.62,
-      "total_score": 75.1,
-      "date": "2026-06-16"
+      "total_score": 83.5,
+      "date": "2026-06-17"
     },
     {
       "code": "300450",
@@ -64,8 +64,8 @@
       "prime_cost": 46.85,
       "trapped": false,
       "org_participate": 0.46,
-      "total_score": 60.8,
-      "date": "2026-06-16"
+      "total_score": 74.9,
+      "date": "2026-06-17"
     },
     {
       "code": "300014",
@@ -76,8 +76,8 @@
       "prime_cost": 66.02,
       "trapped": false,
       "org_participate": 0.52,
-      "total_score": 71.8,
-      "date": "2026-06-16"
+      "total_score": 77.4,
+      "date": "2026-06-17"
     },
     {
       "code": "300476",
@@ -88,8 +88,8 @@
       "prime_cost": 352.34,
       "trapped": false,
       "org_participate": 0.61,
-      "total_score": 82.2,
-      "date": "2026-06-16"
+      "total_score": 83.6,
+      "date": "2026-06-17"
     },
     {
       "code": "300274",
@@ -100,8 +100,8 @@
       "prime_cost": 153.44,
       "trapped": true,
       "org_participate": 0.54,
-      "total_score": 72.4,
-      "date": "2026-06-16"
+      "total_score": 79.3,
+      "date": "2026-06-17"
     },
     {
       "code": "002436",
@@ -112,8 +112,8 @@
       "prime_cost": 43.16,
       "trapped": false,
       "org_participate": 0.55,
-      "total_score": 68.8,
-      "date": "2026-06-16"
+      "total_score": 72.5,
+      "date": "2026-06-17"
     },
     {
       "code": "601179",
@@ -124,8 +124,8 @@
       "prime_cost": 15.99,
       "trapped": false,
       "org_participate": 0.56,
-      "total_score": 65.7,
-      "date": "2026-06-16"
+      "total_score": 72.2,
+      "date": "2026-06-17"
     },
     {
       "code": "002463",
@@ -136,8 +136,8 @@
       "prime_cost": 139.2,
       "trapped": false,
       "org_participate": 0.53,
-      "total_score": 80.9,
-      "date": "2026-06-16"
+      "total_score": 82.2,
+      "date": "2026-06-17"
     },
     {
       "code": "600549",
@@ -149,7 +149,7 @@
       "trapped": false,
       "org_participate": 0.67,
       "total_score": 85.7,
-      "date": "2026-06-16"
+      "date": "2026-06-17"
     },
     {
       "code": "300394",
@@ -160,8 +160,8 @@
       "prime_cost": 319.17,
       "trapped": false,
       "org_participate": 0.57,
-      "total_score": 85.5,
-      "date": "2026-06-16"
+      "total_score": 87.1,
+      "date": "2026-06-17"
     },
     {
       "code": "600206",
@@ -172,8 +172,8 @@
       "prime_cost": 37.99,
       "trapped": false,
       "org_participate": 0.5,
-      "total_score": 73.9,
-      "date": "2026-06-16"
+      "total_score": 76.5,
+      "date": "2026-06-17"
     },
     {
       "code": "002916",
@@ -184,8 +184,8 @@
       "prime_cost": 405.6,
       "trapped": true,
       "org_participate": 0.54,
-      "total_score": 81.0,
-      "date": "2026-06-16"
+      "total_score": 80.8,
+      "date": "2026-06-17"
     },
     {
       "code": "002491",
@@ -196,8 +196,8 @@
       "prime_cost": 25.75,
       "trapped": false,
       "org_participate": 0.48,
-      "total_score": 62.2,
-      "date": "2026-06-16"
+      "total_score": 65.4,
+      "date": "2026-06-17"
     },
     {
       "code": "002709",
@@ -208,8 +208,8 @@
       "prime_cost": 50.88,
       "trapped": false,
       "org_participate": 0.44,
-      "total_score": 67.0,
-      "date": "2026-06-16"
+      "total_score": 77.8,
+      "date": "2026-06-17"
     },
     {
       "code": "300502",
@@ -220,8 +220,8 @@
       "prime_cost": 548.31,
       "trapped": false,
       "org_participate": 0.66,
-      "total_score": 85.8,
-      "date": "2026-06-16"
+      "total_score": 85.0,
+      "date": "2026-06-17"
     },
     {
       "code": "601208",
@@ -232,8 +232,8 @@
       "prime_cost": 69.97,
       "trapped": false,
       "org_participate": 0.58,
-      "total_score": 74.2,
-      "date": "2026-06-16"
+      "total_score": 76.1,
+      "date": "2026-06-17"
     },
     {
       "code": "688521",
@@ -244,8 +244,8 @@
       "prime_cost": 244.42,
       "trapped": false,
       "org_participate": 0.59,
-      "total_score": 67.8,
-      "date": "2026-06-16"
+      "total_score": 69.2,
+      "date": "2026-06-17"
     },
     {
       "code": "002837",
@@ -256,8 +256,8 @@
       "prime_cost": 73.29,
       "trapped": true,
       "org_participate": 0.43,
-      "total_score": 73.4,
-      "date": "2026-06-16"
+      "total_score": 75.3,
+      "date": "2026-06-17"
     },
     {
       "code": "002484",
@@ -268,8 +268,8 @@
       "prime_cost": 93.44,
       "trapped": false,
       "org_participate": 0.63,
-      "total_score": 71.4,
-      "date": "2026-06-16"
+      "total_score": 74.9,
+      "date": "2026-06-17"
     },
     {
       "code": "000063",
@@ -280,8 +280,8 @@
       "prime_cost": 37.72,
       "trapped": false,
       "org_participate": 0.5,
-      "total_score": 70.1,
-      "date": "2026-06-16"
+      "total_score": 70.4,
+      "date": "2026-06-17"
     },
     {
       "code": "600186",
@@ -292,8 +292,8 @@
       "prime_cost": 12.66,
       "trapped": false,
       "org_participate": 0.51,
-      "total_score": 69.7,
-      "date": "2026-06-16"
+      "total_score": 78.8,
+      "date": "2026-06-17"
     },
     {
       "code": "688234",
@@ -304,8 +304,8 @@
       "prime_cost": 140.06,
       "trapped": false,
       "org_participate": 0.5,
-      "total_score": 65.8,
-      "date": "2026-06-16"
+      "total_score": 68.8,
+      "date": "2026-06-17"
     },
     {
       "code": "002415",
@@ -316,8 +316,8 @@
       "prime_cost": 31.61,
       "trapped": false,
       "org_participate": 0.5,
-      "total_score": 78.7,
-      "date": "2026-06-16"
+      "total_score": 81.1,
+      "date": "2026-06-17"
     },
     {
       "code": "603773",
@@ -328,8 +328,8 @@
       "prime_cost": 147.44,
       "trapped": false,
       "org_participate": 0.54,
-      "total_score": 62.4,
-      "date": "2026-06-16"
+      "total_score": 64.4,
+      "date": "2026-06-17"
     },
     {
       "code": "688008",
@@ -340,8 +340,8 @@
       "prime_cost": 243.29,
       "trapped": false,
       "org_participate": 0.59,
-      "total_score": 78.3,
-      "date": "2026-06-16"
+      "total_score": 77.8,
+      "date": "2026-06-17"
     },
     {
       "code": "002851",
@@ -352,8 +352,8 @@
       "prime_cost": 162.48,
       "trapped": false,
       "org_participate": 0.65,
-      "total_score": 73.4,
-      "date": "2026-06-16"
+      "total_score": 75.2,
+      "date": "2026-06-17"
     },
     {
       "code": "300672",
@@ -364,8 +364,8 @@
       "prime_cost": 295.28,
       "trapped": false,
       "org_participate": 0.5,
-      "total_score": 63.7,
-      "date": "2026-06-16"
+      "total_score": 65.3,
+      "date": "2026-06-17"
     }
   ],
   "open_positions": [
@@ -376,8 +376,8 @@
       "buy_date": "2026-06-15",
       "strategy": "ambush",
       "shares": 700,
-      "current_price": 15.69,
-      "pct": 11.99,
+      "current_price": 15.71,
+      "pct": 12.13,
       "tags": [
         "消息面利好",
         "低价"
@@ -390,8 +390,8 @@
       "buy_date": "2026-06-15",
       "strategy": "ambush",
       "shares": 700,
-      "current_price": 14.57,
-      "pct": 1.82,
+      "current_price": 14.39,
+      "pct": 0.56,
       "tags": [
         "消息面利好",
         "低价"
@@ -404,8 +404,8 @@
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
       "shares": 200,
-      "current_price": 62.93,
-      "pct": 0.67,
+      "current_price": 65.07,
+      "pct": 4.1,
       "tags": [
         "主力浮盈",
         "净流入",
@@ -419,8 +419,8 @@
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
       "shares": 100,
-      "current_price": 72.07,
-      "pct": 1.17,
+      "current_price": 69.95,
+      "pct": -1.81,
       "tags": [
         "主力浮盈",
         "净流入",
@@ -434,8 +434,8 @@
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
       "shares": 400,
-      "current_price": 24.09,
-      "pct": -1.91,
+      "current_price": 23.72,
+      "pct": -3.42,
       "tags": [
         "主力浮盈",
         "净流入",
@@ -449,8 +449,8 @@
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
       "shares": 300,
-      "current_price": 28.11,
-      "pct": -2.9,
+      "current_price": 29.71,
+      "pct": 2.63,
       "tags": [
         "主力浮盈",
         "净流入",
@@ -464,8 +464,8 @@
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
       "shares": 600,
-      "current_price": 17.82,
-      "pct": 23.49,
+      "current_price": 18.44,
+      "pct": 27.79,
       "tags": [
         "主力浮盈",
         "净流入",
@@ -479,8 +479,8 @@
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
       "shares": 300,
-      "current_price": 35.99,
-      "pct": 0.22,
+      "current_price": 36.99,
+      "pct": 3.01,
       "tags": [
         "主力浮盈",
         "净流入",
@@ -494,8 +494,8 @@
       "buy_date": "2026-06-16",
       "strategy": "manual",
       "shares": 200,
-      "current_price": 15.25,
-      "pct": 1.94,
+      "current_price": 14.5,
+      "pct": -3.07,
       "tags": [
         "手动买入"
       ]
@@ -507,8 +507,8 @@
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
       "shares": 200,
-      "current_price": 549.0,
-      "pct": -0.55,
+      "current_price": 542.52,
+      "pct": -1.73,
       "tags": [
         "超级主力",
         "净流入",
@@ -522,8 +522,8 @@
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
       "shares": 200,
-      "current_price": 324.71,
-      "pct": -0.14,
+      "current_price": 320.96,
+      "pct": -1.29,
       "tags": [
         "超级主力",
         "净流入",
@@ -537,11 +537,85 @@
       "buy_date": "2026-06-16",
       "strategy": "manual",
       "shares": 3000,
-      "current_price": 2.87,
-      "pct": 1.41,
+      "current_price": 2.94,
+      "pct": 3.89,
       "tags": [
         "手动买入",
         "低价"
+      ]
+    },
+    {
+      "code": "002962",
+      "name": "五方光电",
+      "buy_price": 17.88,
+      "buy_date": "2026-06-17",
+      "strategy": "manual",
+      "shares": 300,
+      "current_price": 18.46,
+      "pct": 3.24,
+      "tags": [
+        "手动买入",
+        "5G概念"
+      ]
+    },
+    {
+      "code": "002837",
+      "name": "英维克",
+      "buy_price": 72.56,
+      "buy_date": "2026-06-17",
+      "strategy": "ambush",
+      "shares": 200,
+      "current_price": 73.2,
+      "pct": 0.88,
+      "tags": [
+        "伏击策略",
+        "主力被套",
+        "温控"
+      ]
+    },
+    {
+      "code": "002491",
+      "name": "通鼎互联",
+      "buy_price": 26.43,
+      "buy_date": "2026-06-17",
+      "strategy": "ambush",
+      "shares": 300,
+      "current_price": 27.68,
+      "pct": 4.73,
+      "tags": [
+        "伏击策略",
+        "主力净流入",
+        "通信"
+      ]
+    },
+    {
+      "code": "000063",
+      "name": "中兴通讯",
+      "buy_price": 37.82,
+      "buy_date": "2026-06-17",
+      "strategy": "ambush",
+      "shares": 200,
+      "current_price": 37.73,
+      "pct": -0.24,
+      "tags": [
+        "伏击策略",
+        "主力净流入",
+        "通信设备"
+      ]
+    },
+    {
+      "code": "002415",
+      "name": "海康威视",
+      "buy_price": 32.22,
+      "buy_date": "2026-06-17",
+      "strategy": "ambush",
+      "shares": 200,
+      "current_price": 32.56,
+      "pct": 1.06,
+      "tags": [
+        "伏击策略",
+        "AI视觉",
+        "低位"
       ]
     }
   ],
@@ -658,7 +732,11 @@
     },
     {
       "date": "2026-06-16",
-      "equity": 1.2623
+      "equity": 1.0003
+    },
+    {
+      "date": "2026-06-17",
+      "equity": 1.4195
     }
   ],
   "monthly": [
@@ -711,34 +789,34 @@
   ],
   "features": {
     "five_yin": {
-      "hit": 7,
-      "total": 59,
-      "rate": "12%"
+      "hit": 49,
+      "total": 95,
+      "rate": "52%"
     },
     "trapped": {
-      "hit": 77,
-      "total": 59,
-      "rate": "131%"
+      "hit": 38,
+      "total": 95,
+      "rate": "40%"
     },
     "shrink_vol": {
-      "hit": 48,
-      "total": 59,
-      "rate": "81%"
+      "hit": 43,
+      "total": 95,
+      "rate": "45%"
     },
     "good_news": {
-      "hit": 60,
-      "total": 59,
-      "rate": "102%"
+      "hit": 42,
+      "total": 95,
+      "rate": "45%"
     },
     "org_join": {
-      "hit": 3,
-      "total": 59,
-      "rate": "5%"
+      "hit": 23,
+      "total": 95,
+      "rate": "25%"
     },
     "low_cap": {
-      "hit": 5,
-      "total": 59,
-      "rate": "8%"
+      "hit": 33,
+      "total": 95,
+      "rate": "35%"
     }
   },
   "mainforce_top10": [
@@ -753,7 +831,7 @@
       "score": 0,
       "alert": "—",
       "tags": "超级主力>5亿",
-      "date": "2026-06-16"
+      "date": "2026-06-17"
     },
     {
       "rank": 2,
@@ -766,7 +844,7 @@
       "score": 0,
       "alert": "—",
       "tags": "超级主力>5亿",
-      "date": "2026-06-16"
+      "date": "2026-06-17"
     },
     {
       "rank": 3,
@@ -779,7 +857,7 @@
       "score": 0,
       "alert": "—",
       "tags": "超级主力>5亿",
-      "date": "2026-06-16"
+      "date": "2026-06-17"
     },
     {
       "rank": 4,
@@ -792,7 +870,7 @@
       "score": 0,
       "alert": "—",
       "tags": "超级主力>5亿/机构参与",
-      "date": "2026-06-16"
+      "date": "2026-06-17"
     },
     {
       "rank": 5,
@@ -805,7 +883,7 @@
       "score": 0,
       "alert": "—",
       "tags": "超级主力>5亿",
-      "date": "2026-06-16"
+      "date": "2026-06-17"
     },
     {
       "rank": 6,
@@ -818,7 +896,7 @@
       "score": 0,
       "alert": "—",
       "tags": "超级主力>5亿",
-      "date": "2026-06-16"
+      "date": "2026-06-17"
     },
     {
       "rank": 7,
@@ -831,7 +909,7 @@
       "score": 0,
       "alert": "—",
       "tags": "超级主力>5亿/机构参与",
-      "date": "2026-06-16"
+      "date": "2026-06-17"
     },
     {
       "rank": 8,
@@ -844,7 +922,7 @@
       "score": 0,
       "alert": "—",
       "tags": "主力被套/超级主力>5亿",
-      "date": "2026-06-16"
+      "date": "2026-06-17"
     },
     {
       "rank": 9,
@@ -857,7 +935,7 @@
       "score": 0,
       "alert": "—",
       "tags": "超级主力>5亿",
-      "date": "2026-06-16"
+      "date": "2026-06-17"
     },
     {
       "rank": 10,
@@ -870,7 +948,7 @@
       "score": 0,
       "alert": "—",
       "tags": "超级主力>5亿",
-      "date": "2026-06-16"
+      "date": "2026-06-17"
     }
   ],
   "ambush_top10": [
