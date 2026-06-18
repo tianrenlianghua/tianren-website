@@ -1,9 +1,9 @@
 {
   "meta": {
-    "last_update": "2026-06-18 08:05",
+    "last_update": "2026-06-18 08:06",
     "start_date": "2026-06-12",
     "initial_capital": 10000,
-    "current_capital": 21885.88,
+    "current_capital": 21890.88,
     "total_capital": 400000
   },
   "pool": [
@@ -431,12 +431,12 @@
     {
       "code": "000338",
       "name": "潍柴动力",
-      "buy_price": 29.05,
+      "buy_price": 29.2,
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
-      "shares": 500,
+      "shares": 1500,
       "current_price": 29.28,
-      "pct": 0.79,
+      "pct": 0.27,
       "tags": [
         "主力浮盈",
         "净流入",
@@ -838,7 +838,7 @@
     },
     {
       "date": "2026-06-18",
-      "equity": 2.1886
+      "equity": 2.1891
     }
   ],
   "monthly": [
