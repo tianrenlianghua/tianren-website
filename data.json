@@ -3,7 +3,7 @@
     "last_update": "2026-06-18 09:27",
     "start_date": "2026-06-12",
     "initial_capital": 10000,
-    "current_capital": 20058.59,
+    "current_capital": 19908.86,
     "total_capital": 400000
   },
   "pool": [
@@ -490,20 +490,6 @@
       ]
     },
     {
-      "code": "000727",
-      "name": "冠捷科技",
-      "buy_price": 2.83,
-      "buy_date": "2026-06-16",
-      "strategy": "manual",
-      "shares": 3000,
-      "current_price": 2.93,
-      "pct": 3.53,
-      "tags": [
-        "手动买入",
-        "低价"
-      ]
-    },
-    {
       "code": "002962",
       "name": "五方光电",
       "buy_price": 17.88,
@@ -800,6 +786,25 @@
         "手动买入"
       ],
       "outlier": false
+    },
+    {
+      "code": "000727",
+      "name": "冠捷科技",
+      "buy_price": 2.83,
+      "buy_date": "2026-06-16",
+      "sell_price": 2.88,
+      "sell_date": "2026-06-18",
+      "shares": 3000,
+      "profit": 150.0,
+      "pct": 1.77,
+      "days": 2,
+      "strategy": "manual",
+      "tags": [
+        "手动买入",
+        "低价",
+        "平仓"
+      ],
+      "outlier": false
     }
   ],
   "equity": [
@@ -833,16 +838,16 @@
     },
     {
       "date": "2026-06-18",
-      "equity": 2.0059
+      "equity": 1.9909
     }
   ],
   "monthly": [
     {
       "month": "2026-06",
-      "ret": 81.12,
+      "ret": 82.89,
       "dd": 3.54,
-      "trades": 7,
-      "wr": 71.4
+      "trades": 8,
+      "wr": 75.0
     }
   ],
   "reports": [],
