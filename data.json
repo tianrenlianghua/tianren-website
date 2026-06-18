@@ -1,9 +1,9 @@
 {
   "meta": {
-    "last_update": "2026-06-18 08:04",
+    "last_update": "2026-06-18 08:05",
     "start_date": "2026-06-12",
     "initial_capital": 10000,
-    "current_capital": 21885.59,
+    "current_capital": 21885.88,
     "total_capital": 400000
   },
   "pool": [
@@ -445,21 +445,6 @@
       ]
     },
     {
-      "code": "002185",
-      "name": "华天科技",
-      "buy_price": 14.43,
-      "buy_date": "2026-06-16",
-      "strategy": "mainforce",
-      "shares": 600,
-      "current_price": 19.05,
-      "pct": 32.02,
-      "tags": [
-        "主力浮盈",
-        "净流入",
-        "半导体封测"
-      ]
-    },
-    {
       "code": "600150",
       "name": "中国船舶",
       "buy_price": 35.91,
@@ -800,6 +785,26 @@
         "手动买入"
       ],
       "outlier": false
+    },
+    {
+      "code": "002185",
+      "name": "华天科技",
+      "buy_price": 14.43,
+      "buy_date": "2026-06-16",
+      "sell_price": 19.05,
+      "sell_date": "2026-06-18",
+      "shares": 600,
+      "profit": 2772.0,
+      "pct": 32.02,
+      "days": 2,
+      "strategy": "mainforce",
+      "tags": [
+        "主力浮盈",
+        "净流入",
+        "半导体封测",
+        "止盈清仓"
+      ],
+      "outlier": false
     }
   ],
   "equity": [
@@ -839,10 +844,10 @@
   "monthly": [
     {
       "month": "2026-06",
-      "ret": 81.12,
+      "ret": 113.14,
       "dd": 3.54,
-      "trades": 7,
-      "wr": 71.4
+      "trades": 8,
+      "wr": 75.0
     }
   ],
   "reports": [],
