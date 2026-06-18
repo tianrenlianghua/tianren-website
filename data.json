@@ -1,9 +1,9 @@
 {
   "meta": {
-    "last_update": "2026-06-18 09:47",
+    "last_update": "2026-06-18 10:00",
     "start_date": "2026-06-12",
     "initial_capital": 10000,
-    "current_capital": 29333.86,
+    "current_capital": 30484.9,
     "total_capital": 400000
   },
   "pool": [
@@ -376,8 +376,8 @@
       "buy_date": "2026-06-15",
       "strategy": "ambush",
       "shares": 700,
-      "current_price": 14.5,
-      "pct": 1.33,
+      "current_price": 14.48,
+      "pct": 1.19,
       "tags": [
         "消息面利好",
         "低价"
@@ -390,8 +390,8 @@
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
       "shares": 200,
-      "current_price": 67.3,
-      "pct": 7.66,
+      "current_price": 68.5,
+      "pct": 9.58,
       "tags": [
         "主力浮盈",
         "净流入",
@@ -405,8 +405,8 @@
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
       "shares": 100,
-      "current_price": 73.75,
-      "pct": 3.52,
+      "current_price": 74.48,
+      "pct": 4.55,
       "tags": [
         "主力浮盈",
         "净流入",
@@ -420,8 +420,8 @@
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
       "shares": 400,
-      "current_price": 23.57,
-      "pct": -4.03,
+      "current_price": 23.47,
+      "pct": -4.44,
       "tags": [
         "主力浮盈",
         "净流入",
@@ -435,8 +435,8 @@
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
       "shares": 1500,
-      "current_price": 30.78,
-      "pct": 4.37,
+      "current_price": 31.33,
+      "pct": 6.24,
       "tags": [
         "主力浮盈",
         "净流入",
@@ -451,56 +451,12 @@
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
       "shares": 300,
-      "current_price": 36.94,
-      "pct": 2.87,
+      "current_price": 36.92,
+      "pct": 2.81,
       "tags": [
         "主力浮盈",
         "净流入",
         "军工"
-      ]
-    },
-    {
-      "code": "300502",
-      "name": "新易盛",
-      "buy_price": 552.05,
-      "buy_date": "2026-06-16",
-      "strategy": "mainforce",
-      "shares": 200,
-      "current_price": 576.08,
-      "pct": 4.35,
-      "tags": [
-        "超级主力",
-        "净流入",
-        "光模块"
-      ]
-    },
-    {
-      "code": "300394",
-      "name": "天孚通信",
-      "buy_price": 325.15,
-      "buy_date": "2026-06-16",
-      "strategy": "mainforce",
-      "shares": 200,
-      "current_price": 336.27,
-      "pct": 3.42,
-      "tags": [
-        "超级主力",
-        "净流入",
-        "光通信"
-      ]
-    },
-    {
-      "code": "002962",
-      "name": "五方光电",
-      "buy_price": 17.88,
-      "buy_date": "2026-06-17",
-      "strategy": "manual",
-      "shares": 300,
-      "current_price": 17.86,
-      "pct": -0.11,
-      "tags": [
-        "手动买入",
-        "5G概念"
       ]
     },
     {
@@ -510,8 +466,8 @@
       "buy_date": "2026-06-17",
       "strategy": "ambush",
       "shares": 200,
-      "current_price": 73.94,
-      "pct": 1.9,
+      "current_price": 73.91,
+      "pct": 1.86,
       "tags": [
         "伏击策略",
         "主力被套",
@@ -540,8 +496,8 @@
       "buy_date": "2026-06-17",
       "strategy": "ambush",
       "shares": 200,
-      "current_price": 37.8,
-      "pct": -0.05,
+      "current_price": 37.9,
+      "pct": 0.21,
       "tags": [
         "伏击策略",
         "主力净流入",
@@ -555,8 +511,8 @@
       "buy_date": "2026-06-17",
       "strategy": "ambush",
       "shares": 200,
-      "current_price": 32.03,
-      "pct": -0.59,
+      "current_price": 31.99,
+      "pct": -0.71,
       "tags": [
         "伏击策略",
         "AI视觉",
@@ -570,8 +526,8 @@
       "buy_date": "2026-06-17",
       "strategy": "ambush",
       "shares": 1000,
-      "current_price": 5.04,
-      "pct": 0.0,
+      "current_price": 5.0,
+      "pct": -0.79,
       "tags": [
         "伏击策略",
         "RSI超卖",
@@ -586,44 +542,13 @@
       "buy_date": "2026-06-17",
       "strategy": "ambush",
       "shares": 500,
-      "current_price": 13.04,
-      "pct": 0.15,
+      "current_price": 13.24,
+      "pct": 1.69,
       "tags": [
         "伏击策略",
         "RSI超卖",
         "BOLL支撑",
         "游戏"
-      ]
-    },
-    {
-      "code": "002131",
-      "name": "利欧股份",
-      "buy_price": 5.34,
-      "buy_date": "2026-06-17",
-      "strategy": "ambush",
-      "shares": 1000,
-      "current_price": 5.33,
-      "pct": -0.19,
-      "tags": [
-        "伏击策略",
-        "5阴超跌",
-        "低位",
-        "互联网营销"
-      ]
-    },
-    {
-      "code": "002185",
-      "name": "华天科技",
-      "buy_price": 14.43,
-      "buy_date": "2026-06-16",
-      "strategy": "mainforce",
-      "shares": 600,
-      "current_price": 19.61,
-      "pct": 35.9,
-      "tags": [
-        "主力浮盈",
-        "净流入",
-        "半导体封测"
       ]
     },
     {
@@ -633,8 +558,8 @@
       "buy_date": "2026-06-18",
       "strategy": "mainforce",
       "shares": 1000,
-      "current_price": 4.53,
-      "pct": -3.82,
+      "current_price": 4.55,
+      "pct": -3.4,
       "tags": [
         "主力建仓首选",
         "高分红",
@@ -648,8 +573,8 @@
       "buy_date": "2026-06-18",
       "strategy": "ambush",
       "shares": 1000,
-      "current_price": 10.41,
-      "pct": 0.0,
+      "current_price": 10.4,
+      "pct": -0.1,
       "tags": [
         "伏击计划首选",
         "算电协同",
@@ -805,6 +730,101 @@
         "平仓"
       ],
       "outlier": false
+    },
+    {
+      "code": "002185",
+      "name": "华天科技",
+      "buy_price": 14.43,
+      "buy_date": "2026-06-16",
+      "sell_price": 19.61,
+      "sell_date": "2026-06-18",
+      "shares": 600,
+      "profit": 3108.0,
+      "pct": 35.9,
+      "days": 2,
+      "strategy": "mainforce",
+      "tags": [
+        "主力浮盈",
+        "净流入",
+        "半导体封测"
+      ],
+      "outlier": false
+    },
+    {
+      "code": "002131",
+      "name": "利欧股份",
+      "buy_price": 5.34,
+      "buy_date": "2026-06-17",
+      "sell_price": 5.33,
+      "sell_date": "2026-06-18",
+      "shares": 1000,
+      "profit": -10.0,
+      "pct": -0.19,
+      "days": 1,
+      "strategy": "ambush",
+      "tags": [
+        "伏击策略",
+        "5阴超跌",
+        "低位",
+        "互联网营销"
+      ],
+      "outlier": false
+    },
+    {
+      "code": "300502",
+      "name": "新易盛",
+      "buy_price": 552.05,
+      "buy_date": "2026-06-16",
+      "sell_price": 576.08,
+      "sell_date": "2026-06-18",
+      "shares": 200,
+      "profit": 4806.0,
+      "pct": 4.35,
+      "days": 2,
+      "strategy": "mainforce",
+      "tags": [
+        "超级主力",
+        "净流入",
+        "光模块"
+      ],
+      "outlier": false
+    },
+    {
+      "code": "300394",
+      "name": "天孚通信",
+      "buy_price": 325.15,
+      "buy_date": "2026-06-16",
+      "sell_price": 336.27,
+      "sell_date": "2026-06-18",
+      "shares": 200,
+      "profit": 2224.0,
+      "pct": 3.42,
+      "days": 2,
+      "strategy": "mainforce",
+      "tags": [
+        "超级主力",
+        "净流入",
+        "光通信"
+      ],
+      "outlier": false
+    },
+    {
+      "code": "002962",
+      "name": "五方光电",
+      "buy_price": 17.88,
+      "buy_date": "2026-06-17",
+      "sell_price": 17.86,
+      "sell_date": "2026-06-18",
+      "shares": 300,
+      "profit": -6.0,
+      "pct": -0.11,
+      "days": 1,
+      "strategy": "manual",
+      "tags": [
+        "手动买入",
+        "5G概念"
+      ],
+      "outlier": false
     }
   ],
   "equity": [
@@ -838,16 +858,16 @@
     },
     {
       "date": "2026-06-18",
-      "equity": 2.9334
+      "equity": 3.0485
     }
   ],
   "monthly": [
     {
       "month": "2026-06",
-      "ret": 82.89,
+      "ret": 126.26,
       "dd": 3.54,
-      "trades": 8,
-      "wr": 75.0
+      "trades": 13,
+      "wr": 69.2
     }
   ],
   "reports": [],
