@@ -1,9 +1,9 @@
 {
   "meta": {
-    "last_update": "2026-06-19 15:46",
+    "last_update": "2026-06-19 16:42",
     "start_date": "2026-06-12",
     "initial_capital": 10000,
-    "current_capital": 42969.74,
+    "current_capital": 28618.0,
     "total_capital": 900000
   },
   "pool": [
@@ -988,7 +988,7 @@
     },
     {
       "date": "2026-06-19",
-      "equity": 4.297
+      "equity": 2.8618
     }
   ],
   "monthly": [
