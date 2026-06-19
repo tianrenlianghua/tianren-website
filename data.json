@@ -1,9 +1,9 @@
 {
   "meta": {
-    "last_update": "2026-06-18 18:14",
+    "last_update": "2026-06-19 09:47",
     "start_date": "2026-06-12",
     "initial_capital": 10000,
-    "current_capital": 28618.0,
+    "current_capital": 42969.74,
     "total_capital": 900000
   },
   "pool": [
@@ -16,8 +16,8 @@
       "prime_cost": 77.8,
       "trapped": false,
       "org_participate": 0.6,
-      "total_score": 74.5,
-      "date": "2026-06-18"
+      "total_score": 82.5,
+      "date": "2026-06-19"
     },
     {
       "code": "300308",
@@ -28,8 +28,8 @@
       "prime_cost": 1337.11,
       "trapped": false,
       "org_participate": 0.76,
-      "total_score": 85.9,
-      "date": "2026-06-18"
+      "total_score": 85.6,
+      "date": "2026-06-19"
     },
     {
       "code": "300502",
@@ -40,8 +40,8 @@
       "prime_cost": 577.02,
       "trapped": false,
       "org_participate": 0.68,
-      "total_score": 79.7,
-      "date": "2026-06-18"
+      "total_score": 85.6,
+      "date": "2026-06-19"
     },
     {
       "code": "002281",
@@ -52,8 +52,8 @@
       "prime_cost": 255.76,
       "trapped": false,
       "org_participate": 0.61,
-      "total_score": 79.6,
-      "date": "2026-06-18"
+      "total_score": 80.9,
+      "date": "2026-06-19"
     },
     {
       "code": "688041",
@@ -64,8 +64,8 @@
       "prime_cost": 324.89,
       "trapped": false,
       "org_participate": 0.62,
-      "total_score": 82.9,
-      "date": "2026-06-18"
+      "total_score": 84.3,
+      "date": "2026-06-19"
     },
     {
       "code": "600362",
@@ -76,8 +76,8 @@
       "prime_cost": 52.81,
       "trapped": false,
       "org_participate": 0.6,
-      "total_score": 72.4,
-      "date": "2026-06-18"
+      "total_score": 77.8,
+      "date": "2026-06-19"
     },
     {
       "code": "300548",
@@ -88,8 +88,8 @@
       "prime_cost": 274.47,
       "trapped": false,
       "org_participate": 0.49,
-      "total_score": 72.0,
-      "date": "2026-06-18"
+      "total_score": 79.8,
+      "date": "2026-06-19"
     },
     {
       "code": "300166",
@@ -100,8 +100,8 @@
       "prime_cost": 17.68,
       "trapped": false,
       "org_participate": 0.5,
-      "total_score": 53.8,
-      "date": "2026-06-18"
+      "total_score": 67.9,
+      "date": "2026-06-19"
     },
     {
       "code": "000657",
@@ -112,8 +112,8 @@
       "prime_cost": 93.68,
       "trapped": false,
       "org_participate": 0.52,
-      "total_score": 70.4,
-      "date": "2026-06-18"
+      "total_score": 76.7,
+      "date": "2026-06-19"
     },
     {
       "code": "002600",
@@ -124,8 +124,8 @@
       "prime_cost": 16.78,
       "trapped": false,
       "org_participate": 0.45,
-      "total_score": 69.9,
-      "date": "2026-06-18"
+      "total_score": 78.6,
+      "date": "2026-06-19"
     },
     {
       "code": "600392",
@@ -136,8 +136,8 @@
       "prime_cost": 31.13,
       "trapped": false,
       "org_participate": 0.56,
-      "total_score": 74.6,
-      "date": "2026-06-18"
+      "total_score": 83.7,
+      "date": "2026-06-19"
     },
     {
       "code": "002475",
@@ -148,8 +148,8 @@
       "prime_cost": 69.31,
       "trapped": false,
       "org_participate": 0.54,
-      "total_score": 74.0,
-      "date": "2026-06-18"
+      "total_score": 81.4,
+      "date": "2026-06-19"
     },
     {
       "code": "300418",
@@ -160,8 +160,8 @@
       "prime_cost": 42.81,
       "trapped": false,
       "org_participate": 0.44,
-      "total_score": 60.0,
-      "date": "2026-06-18"
+      "total_score": 71.1,
+      "date": "2026-06-19"
     },
     {
       "code": "688981",
@@ -172,8 +172,8 @@
       "prime_cost": 138.88,
       "trapped": false,
       "org_participate": 0.62,
-      "total_score": 77.4,
-      "date": "2026-06-18"
+      "total_score": 78.0,
+      "date": "2026-06-19"
     },
     {
       "code": "002371",
@@ -184,8 +184,8 @@
       "prime_cost": 719.67,
       "trapped": false,
       "org_participate": 0.59,
-      "total_score": 80.8,
-      "date": "2026-06-18"
+      "total_score": 78.7,
+      "date": "2026-06-19"
     },
     {
       "code": "301205",
@@ -196,8 +196,8 @@
       "prime_cost": 347.74,
       "trapped": false,
       "org_participate": 0.55,
-      "total_score": 69.9,
-      "date": "2026-06-18"
+      "total_score": 75.0,
+      "date": "2026-06-19"
     },
     {
       "code": "300857",
@@ -208,8 +208,8 @@
       "prime_cost": 276.7,
       "trapped": false,
       "org_participate": 0.57,
-      "total_score": 80.5,
-      "date": "2026-06-18"
+      "total_score": 78.8,
+      "date": "2026-06-19"
     },
     {
       "code": "002297",
@@ -220,8 +220,8 @@
       "prime_cost": 27.94,
       "trapped": false,
       "org_participate": 0.52,
-      "total_score": 77.9,
-      "date": "2026-06-18"
+      "total_score": 80.4,
+      "date": "2026-06-19"
     },
     {
       "code": "688012",
@@ -232,8 +232,8 @@
       "prime_cost": 358.14,
       "trapped": false,
       "org_participate": 0.6,
-      "total_score": 81.0,
-      "date": "2026-06-18"
+      "total_score": 79.5,
+      "date": "2026-06-19"
     },
     {
       "code": "603259",
@@ -244,8 +244,8 @@
       "prime_cost": 101.84,
       "trapped": false,
       "org_participate": 0.49,
-      "total_score": 66.5,
-      "date": "2026-06-18"
+      "total_score": 73.7,
+      "date": "2026-06-19"
     },
     {
       "code": "600172",
@@ -256,8 +256,8 @@
       "prime_cost": 14.27,
       "trapped": true,
       "org_participate": 0.44,
-      "total_score": 63.2,
-      "date": "2026-06-18"
+      "total_score": 64.4,
+      "date": "2026-06-19"
     },
     {
       "code": "002179",
@@ -268,8 +268,8 @@
       "prime_cost": 40.36,
       "trapped": false,
       "org_participate": 0.46,
-      "total_score": 76.7,
-      "date": "2026-06-18"
+      "total_score": 79.8,
+      "date": "2026-06-19"
     },
     {
       "code": "300260",
@@ -280,8 +280,8 @@
       "prime_cost": 80.36,
       "trapped": false,
       "org_participate": 0.44,
-      "total_score": 73.7,
-      "date": "2026-06-18"
+      "total_score": 76.2,
+      "date": "2026-06-19"
     },
     {
       "code": "300782",
@@ -292,8 +292,8 @@
       "prime_cost": 104.85,
       "trapped": false,
       "org_participate": 0.47,
-      "total_score": 62.3,
-      "date": "2026-06-18"
+      "total_score": 65.3,
+      "date": "2026-06-19"
     },
     {
       "code": "600276",
@@ -304,8 +304,8 @@
       "prime_cost": 48.47,
       "trapped": true,
       "org_participate": 0.48,
-      "total_score": 67.5,
-      "date": "2026-06-18"
+      "total_score": 75.0,
+      "date": "2026-06-19"
     },
     {
       "code": "688048",
@@ -316,8 +316,8 @@
       "prime_cost": 391.01,
       "trapped": false,
       "org_participate": 0.61,
-      "total_score": 60.2,
-      "date": "2026-06-18"
+      "total_score": 66.3,
+      "date": "2026-06-19"
     },
     {
       "code": "300975",
@@ -328,8 +328,8 @@
       "prime_cost": 42.99,
       "trapped": false,
       "org_participate": 0.41,
-      "total_score": 72.5,
-      "date": "2026-06-18"
+      "total_score": 75.8,
+      "date": "2026-06-19"
     },
     {
       "code": "603083",
@@ -340,8 +340,8 @@
       "prime_cost": 213.3,
       "trapped": false,
       "org_participate": 0.53,
-      "total_score": 77.2,
-      "date": "2026-06-18"
+      "total_score": 78.1,
+      "date": "2026-06-19"
     },
     {
       "code": "002747",
@@ -352,8 +352,8 @@
       "prime_cost": 35.36,
       "trapped": false,
       "org_participate": 0.42,
-      "total_score": 61.4,
-      "date": "2026-06-18"
+      "total_score": 72.6,
+      "date": "2026-06-19"
     },
     {
       "code": "688333",
@@ -364,8 +364,8 @@
       "prime_cost": 103.97,
       "trapped": false,
       "org_participate": 0.62,
-      "total_score": 73.2,
-      "date": "2026-06-18"
+      "total_score": 77.6,
+      "date": "2026-06-19"
     }
   ],
   "open_positions": [
@@ -984,7 +984,11 @@
     },
     {
       "date": "2026-06-18",
-      "equity": 2.8618
+      "equity": 4.297
+    },
+    {
+      "date": "2026-06-19",
+      "equity": 4.297
     }
   ],
   "monthly": [
@@ -1079,7 +1083,7 @@
       "score": 0,
       "alert": "—",
       "tags": "超级主力>5亿/机构参与",
-      "date": "2026-06-18"
+      "date": "2026-06-19"
     },
     {
       "rank": 2,
@@ -1092,7 +1096,7 @@
       "score": 0,
       "alert": "—",
       "tags": "超级主力>5亿/机构参与",
-      "date": "2026-06-18"
+      "date": "2026-06-19"
     },
     {
       "rank": 3,
@@ -1105,7 +1109,7 @@
       "score": 0,
       "alert": "—",
       "tags": "超级主力>5亿/机构参与",
-      "date": "2026-06-18"
+      "date": "2026-06-19"
     },
     {
       "rank": 4,
@@ -1118,7 +1122,7 @@
       "score": 0,
       "alert": "—",
       "tags": "超级主力>5亿/机构参与",
-      "date": "2026-06-18"
+      "date": "2026-06-19"
     },
     {
       "rank": 5,
@@ -1131,7 +1135,7 @@
       "score": 0,
       "alert": "—",
       "tags": "超级主力>5亿/机构参与",
-      "date": "2026-06-18"
+      "date": "2026-06-19"
     },
     {
       "rank": 6,
@@ -1144,7 +1148,7 @@
       "score": 0,
       "alert": "—",
       "tags": "超级主力>5亿/机构参与",
-      "date": "2026-06-18"
+      "date": "2026-06-19"
     },
     {
       "rank": 7,
@@ -1157,7 +1161,7 @@
       "score": 0,
       "alert": "—",
       "tags": "超级主力>5亿",
-      "date": "2026-06-18"
+      "date": "2026-06-19"
     },
     {
       "rank": 8,
@@ -1170,7 +1174,7 @@
       "score": 0,
       "alert": "—",
       "tags": "超级主力>5亿",
-      "date": "2026-06-18"
+      "date": "2026-06-19"
     },
     {
       "rank": 9,
@@ -1183,7 +1187,7 @@
       "score": 0,
       "alert": "—",
       "tags": "超级主力>5亿",
-      "date": "2026-06-18"
+      "date": "2026-06-19"
     },
     {
       "rank": 10,
@@ -1196,7 +1200,7 @@
       "score": 0,
       "alert": "—",
       "tags": "超级主力>5亿",
-      "date": "2026-06-18"
+      "date": "2026-06-19"
     }
   ],
   "ambush_top10": [
