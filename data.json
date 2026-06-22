@@ -1,9 +1,9 @@
 {
   "meta": {
-    "last_update": "2026-06-22 10:17",
+    "last_update": "2026-06-22 10:59",
     "start_date": "2026-06-12",
     "initial_capital": 10000,
-    "current_capital": 51568.74,
+    "current_capital": 45948.74,
     "total_capital": 900000
   },
   "pool": [
@@ -376,8 +376,8 @@
       "buy_date": "2026-06-15",
       "strategy": "ambush",
       "shares": 700,
-      "current_price": 15.36,
-      "pct": 7.34,
+      "current_price": 15.17,
+      "pct": 6.01,
       "tags": [
         "消息面利好",
         "低价"
@@ -390,8 +390,8 @@
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
       "shares": 200,
-      "current_price": 69.24,
-      "pct": 10.77,
+      "current_price": 68.45,
+      "pct": 9.5,
       "tags": [
         "主力浮盈",
         "净流入",
@@ -405,8 +405,8 @@
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
       "shares": 100,
-      "current_price": 75.08,
-      "pct": 5.39,
+      "current_price": 78.21,
+      "pct": 9.78,
       "tags": [
         "主力浮盈",
         "净流入",
@@ -420,8 +420,8 @@
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
       "shares": 400,
-      "current_price": 22.73,
-      "pct": -7.45,
+      "current_price": 23.04,
+      "pct": -6.19,
       "tags": [
         "主力浮盈",
         "净流入",
@@ -435,8 +435,8 @@
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
       "shares": 1500,
-      "current_price": 31.55,
-      "pct": 6.99,
+      "current_price": 31.26,
+      "pct": 6.0,
       "tags": [
         "主力浮盈",
         "净流入",
@@ -451,8 +451,8 @@
       "buy_date": "2026-06-16",
       "strategy": "mainforce",
       "shares": 300,
-      "current_price": 36.08,
-      "pct": 0.47,
+      "current_price": 36.31,
+      "pct": 1.11,
       "tags": [
         "主力浮盈",
         "净流入",
@@ -466,8 +466,8 @@
       "buy_date": "2026-06-17",
       "strategy": "ambush",
       "shares": 200,
-      "current_price": 75.12,
-      "pct": 3.53,
+      "current_price": 73.65,
+      "pct": 1.5,
       "tags": [
         "伏击策略",
         "主力被套",
@@ -481,8 +481,8 @@
       "buy_date": "2026-06-17",
       "strategy": "ambush",
       "shares": 300,
-      "current_price": 33.38,
-      "pct": 26.3,
+      "current_price": 32.79,
+      "pct": 24.06,
       "tags": [
         "伏击策略",
         "主力净流入",
@@ -496,8 +496,8 @@
       "buy_date": "2026-06-17",
       "strategy": "ambush",
       "shares": 1500,
-      "current_price": 38.67,
-      "pct": 1.61,
+      "current_price": 38.13,
+      "pct": 0.19,
       "tags": [
         "伏击策略",
         "主力净流入",
@@ -512,8 +512,8 @@
       "buy_date": "2026-06-17",
       "strategy": "ambush",
       "shares": 200,
-      "current_price": 31.61,
-      "pct": -1.89,
+      "current_price": 31.49,
+      "pct": -2.27,
       "tags": [
         "伏击策略",
         "AI视觉",
@@ -527,8 +527,8 @@
       "buy_date": "2026-06-18",
       "strategy": "mainforce",
       "shares": 3000,
-      "current_price": 4.38,
-      "pct": -3.88,
+      "current_price": 4.49,
+      "pct": -1.47,
       "tags": [
         "主力建仓首选",
         "高分红",
@@ -543,8 +543,8 @@
       "buy_date": "2026-06-18",
       "strategy": "ambush",
       "shares": 1000,
-      "current_price": 10.15,
-      "pct": -2.5,
+      "current_price": 10.07,
+      "pct": -3.27,
       "tags": [
         "伏击计划首选",
         "算电协同",
@@ -558,8 +558,8 @@
       "buy_date": "2026-06-18",
       "strategy": "mainforce",
       "shares": 1500,
-      "current_price": 87.61,
-      "pct": 3.03,
+      "current_price": 87.31,
+      "pct": 2.67,
       "tags": [
         "主力建仓",
         "净流入",
@@ -575,8 +575,8 @@
       "buy_date": "2026-06-18",
       "strategy": "mainforce",
       "shares": 500,
-      "current_price": 268.02,
-      "pct": 10.05,
+      "current_price": 263.5,
+      "pct": 8.19,
       "tags": [
         "🔥四火共振",
         "主力建仓",
@@ -592,8 +592,8 @@
       "buy_date": "2026-06-18",
       "strategy": "mainforce",
       "shares": 500,
-      "current_price": 183.5,
-      "pct": 4.33,
+      "current_price": 181.38,
+      "pct": 3.13,
       "tags": [
         "🔥四火共振",
         "主力建仓",
@@ -609,8 +609,8 @@
       "buy_date": "2026-06-18",
       "strategy": "mainforce",
       "shares": 500,
-      "current_price": 54.5,
-      "pct": 4.11,
+      "current_price": 54.53,
+      "pct": 4.16,
       "tags": [
         "🔥四火共振",
         "主力建仓",
@@ -626,8 +626,8 @@
       "buy_date": "2026-06-18",
       "strategy": "mainforce",
       "shares": 1000,
-      "current_price": 6.69,
-      "pct": -7.08,
+      "current_price": 6.6,
+      "pct": -8.33,
       "tags": [
         "双策略共振",
         "主力建仓",
@@ -642,8 +642,8 @@
       "buy_date": "2026-06-18",
       "strategy": "mainforce",
       "shares": 1000,
-      "current_price": 10.51,
-      "pct": 1.84,
+      "current_price": 10.31,
+      "pct": -0.1,
       "tags": [
         "主力建仓",
         "AIDC转型",
@@ -657,8 +657,8 @@
       "buy_date": "2026-06-18",
       "strategy": "mainforce",
       "shares": 1000,
-      "current_price": 14.02,
-      "pct": -6.16,
+      "current_price": 13.72,
+      "pct": -8.17,
       "tags": [
         "主力建仓",
         "涨停次日",
@@ -1000,7 +1000,7 @@
     },
     {
       "date": "2026-06-22",
-      "equity": 5.1569
+      "equity": 4.5949
     }
   ],
   "monthly": [
