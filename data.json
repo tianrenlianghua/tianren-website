@@ -1,9 +1,9 @@
 {
   "meta": {
-    "last_update": "2026-06-25 16:10",
+    "last_update": "2026-06-25 16:35",
     "start_date": "2026-06-12",
     "initial_capital": 10000,
-    "current_capital": 25199.74,
+    "current_capital": 10848.0,
     "total_capital": 900000,
     "cash": 326,
     "total_market_value": 1011240.0000000001,
@@ -739,7 +739,7 @@
     },
     {
       "date": "2026-06-25",
-      "equity": 2.52
+      "equity": 1.0848
     }
   ],
   "monthly": [
