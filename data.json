@@ -1,9 +1,9 @@
 {
   "meta": {
-    "last_update": "2026-07-07 16:42",
+    "last_update": "2026-07-08 12:09",
     "start_date": "2026-06-12",
     "initial_capital": 10000,
-    "current_capital": -1064550.0,
+    "current_capital": -1366658.0,
     "total_capital": 10900000,
     "cash": 0,
     "total_market_value": 10722216.0,
@@ -380,8 +380,8 @@
       "buy_date": "2026-06-25",
       "strategy": "manual",
       "shares": 42400,
-      "current_price": 21.08,
-      "pct": -11.54,
+      "current_price": 20.41,
+      "pct": -14.35,
       "market_value": 947216.0,
       "profit": -63175.999999999935,
       "stop_loss": 22.64,
@@ -400,8 +400,8 @@
       "buy_date": "2026-06-26",
       "strategy": "four_yin_cross",
       "shares": 977500,
-      "current_price": 9.25,
-      "pct": -9.58,
+      "current_price": 8.97,
+      "pct": -12.32,
       "market_value": 9775000.0,
       "profit": -224825.0000000004,
       "signal": "四阴十字策略，十字星形态，评分60",
@@ -811,6 +811,10 @@
     {
       "date": "2026-07-07",
       "equity": -106.455
+    },
+    {
+      "date": "2026-07-08",
+      "equity": -136.6658
     }
   ],
   "monthly": [
