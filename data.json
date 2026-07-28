@@ -1,9 +1,9 @@
 {
   "meta": {
-    "last_update": "2026-07-27 10:52",
+    "last_update": "2026-07-28 10:01",
     "start_date": "2026-06-12",
     "initial_capital": 10000,
-    "current_capital": -673472.0,
+    "current_capital": -630755.0,
     "total_capital": 10900000,
     "cash": 204.0,
     "total_market_value": 10038495.0,
@@ -380,8 +380,8 @@
       "buy_date": "2026-07-10",
       "strategy": "manual",
       "shares": 4271700,
-      "current_price": 2.19,
-      "pct": -6.81,
+      "current_price": 2.2,
+      "pct": -6.38,
       "market_value": 10038495.0,
       "profit": 0,
       "stop_loss": 2.28,
@@ -847,6 +847,10 @@
     {
       "date": "2026-07-27",
       "equity": -67.3472
+    },
+    {
+      "date": "2026-07-28",
+      "equity": -63.0755
     }
   ],
   "monthly": [
